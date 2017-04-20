@@ -1,0 +1,3639 @@
+2017-04-13 01:20:06,447- api.Request -ERROR – Something went wrong !!! Please check the stack trace for more details: 
+2017-04-13 01:20:06,502- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:20:40,488- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:20:40,497- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:21:19,438- api.Request -INFO – Response : {
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Total [249] records found." ],
+    "result" : [ {
+      "name" : "Afghanistan",
+      "alpha2_code" : "AF",
+      "alpha3_code" : "AFG"
+    }, {
+      "name" : "Åland Islands",
+      "alpha2_code" : "AX",
+      "alpha3_code" : "ALA"
+    }, {
+      "name" : "Albania",
+      "alpha2_code" : "AL",
+      "alpha3_code" : "ALB"
+    }, {
+      "name" : "Algeria",
+      "alpha2_code" : "DZ",
+      "alpha3_code" : "DZA"
+    }, {
+      "name" : "American Samoa",
+      "alpha2_code" : "AS",
+      "alpha3_code" : "ASM"
+    }, {
+      "name" : "Andorra",
+      "alpha2_code" : "AD",
+      "alpha3_code" : "AND"
+    }, {
+      "name" : "Angola",
+      "alpha2_code" : "AO",
+      "alpha3_code" : "AGO"
+    }, {
+      "name" : "Anguilla",
+      "alpha2_code" : "AI",
+      "alpha3_code" : "AIA"
+    }, {
+      "name" : "Antarctica",
+      "alpha2_code" : "AQ",
+      "alpha3_code" : "ATA"
+    }, {
+      "name" : "Antigua and Barbuda",
+      "alpha2_code" : "AG",
+      "alpha3_code" : "ATG"
+    }, {
+      "name" : "Argentina",
+      "alpha2_code" : "AR",
+      "alpha3_code" : "ARG"
+    }, {
+      "name" : "Armenia",
+      "alpha2_code" : "AM",
+      "alpha3_code" : "ARM"
+    }, {
+      "name" : "Aruba",
+      "alpha2_code" : "AW",
+      "alpha3_code" : "ABW"
+    }, {
+      "name" : "Australia",
+      "alpha2_code" : "AU",
+      "alpha3_code" : "AUS"
+    }, {
+      "name" : "Austria",
+      "alpha2_code" : "AT",
+      "alpha3_code" : "AUT"
+    }, {
+      "name" : "Azerbaijan",
+      "alpha2_code" : "AZ",
+      "alpha3_code" : "AZE"
+    }, {
+      "name" : "Bahamas",
+      "alpha2_code" : "BS",
+      "alpha3_code" : "BHS"
+    }, {
+      "name" : "Bahrain",
+      "alpha2_code" : "BH",
+      "alpha3_code" : "BHR"
+    }, {
+      "name" : "Bangladesh",
+      "alpha2_code" : "BD",
+      "alpha3_code" : "BGD"
+    }, {
+      "name" : "Barbados",
+      "alpha2_code" : "BB",
+      "alpha3_code" : "BRB"
+    }, {
+      "name" : "Belarus",
+      "alpha2_code" : "BY",
+      "alpha3_code" : "BLR"
+    }, {
+      "name" : "Belgium",
+      "alpha2_code" : "BE",
+      "alpha3_code" : "BEL"
+    }, {
+      "name" : "Belize",
+      "alpha2_code" : "BZ",
+      "alpha3_code" : "BLZ"
+    }, {
+      "name" : "Benin",
+      "alpha2_code" : "BJ",
+      "alpha3_code" : "BEN"
+    }, {
+      "name" : "Bermuda",
+      "alpha2_code" : "BM",
+      "alpha3_code" : "BMU"
+    }, {
+      "name" : "Bhutan",
+      "alpha2_code" : "BT",
+      "alpha3_code" : "BTN"
+    }, {
+      "name" : "Bolivia (Plurinational State of)",
+      "alpha2_code" : "BO",
+      "alpha3_code" : "BOL"
+    }, {
+      "name" : "Bonaire, Sint Eustatius and Saba",
+      "alpha2_code" : "BQ",
+      "alpha3_code" : "BES"
+    }, {
+      "name" : "Bosnia and Herzegovina",
+      "alpha2_code" : "BA",
+      "alpha3_code" : "BIH"
+    }, {
+      "name" : "Botswana",
+      "alpha2_code" : "BW",
+      "alpha3_code" : "BWA"
+    }, {
+      "name" : "Bouvet Island",
+      "alpha2_code" : "BV",
+      "alpha3_code" : "BVT"
+    }, {
+      "name" : "Brazil",
+      "alpha2_code" : "BR",
+      "alpha3_code" : "BRA"
+    }, {
+      "name" : "British Indian Ocean Territory",
+      "alpha2_code" : "IO",
+      "alpha3_code" : "IOT"
+    }, {
+      "name" : "Brunei Darussalam",
+      "alpha2_code" : "BN",
+      "alpha3_code" : "BRN"
+    }, {
+      "name" : "Bulgaria",
+      "alpha2_code" : "BG",
+      "alpha3_code" : "BGR"
+    }, {
+      "name" : "Burkina Faso",
+      "alpha2_code" : "BF",
+      "alpha3_code" : "BFA"
+    }, {
+      "name" : "Burundi",
+      "alpha2_code" : "BI",
+      "alpha3_code" : "BDI"
+    }, {
+      "name" : "Cambodia",
+      "alpha2_code" : "KH",
+      "alpha3_code" : "KHM"
+    }, {
+      "name" : "Cameroon",
+      "alpha2_code" : "CM",
+      "alpha3_code" : "CMR"
+    }, {
+      "name" : "Canada",
+      "alpha2_code" : "CA",
+      "alpha3_code" : "CAN"
+    }, {
+      "name" : "Cabo Verde",
+      "alpha2_code" : "CV",
+      "alpha3_code" : "CPV"
+    }, {
+      "name" : "Cayman Islands",
+      "alpha2_code" : "KY",
+      "alpha3_code" : "CYM"
+    }, {
+      "name" : "Central African Republic",
+      "alpha2_code" : "CF",
+      "alpha3_code" : "CAF"
+    }, {
+      "name" : "Chad",
+      "alpha2_code" : "TD",
+      "alpha3_code" : "TCD"
+    }, {
+      "name" : "Chile",
+      "alpha2_code" : "CL",
+      "alpha3_code" : "CHL"
+    }, {
+      "name" : "China",
+      "alpha2_code" : "CN",
+      "alpha3_code" : "CHN"
+    }, {
+      "name" : "Christmas Island",
+      "alpha2_code" : "CX",
+      "alpha3_code" : "CXR"
+    }, {
+      "name" : "Cocos (Keeling) Islands",
+      "alpha2_code" : "CC",
+      "alpha3_code" : "CCK"
+    }, {
+      "name" : "Colombia",
+      "alpha2_code" : "CO",
+      "alpha3_code" : "COL"
+    }, {
+      "name" : "Comoros",
+      "alpha2_code" : "KM",
+      "alpha3_code" : "COM"
+    }, {
+      "name" : "Congo",
+      "alpha2_code" : "CG",
+      "alpha3_code" : "COG"
+    }, {
+      "name" : "Congo (Democratic Republic of the)",
+      "alpha2_code" : "CD",
+      "alpha3_code" : "COD"
+    }, {
+      "name" : "Cook Islands",
+      "alpha2_code" : "CK",
+      "alpha3_code" : "COK"
+    }, {
+      "name" : "Costa Rica",
+      "alpha2_code" : "CR",
+      "alpha3_code" : "CRI"
+    }, {
+      "name" : "Côte d'Ivoire",
+      "alpha2_code" : "CI",
+      "alpha3_code" : "CIV"
+    }, {
+      "name" : "Croatia",
+      "alpha2_code" : "HR",
+      "alpha3_code" : "HRV"
+    }, {
+      "name" : "Cuba",
+      "alpha2_code" : "CU",
+      "alpha3_code" : "CUB"
+    }, {
+      "name" : "Curaçao",
+      "alpha2_code" : "CW",
+      "alpha3_code" : "CUW"
+    }, {
+      "name" : "Cyprus",
+      "alpha2_code" : "CY",
+      "alpha3_code" : "CYP"
+    }, {
+      "name" : "Czech Republic",
+      "alpha2_code" : "CZ",
+      "alpha3_code" : "CZE"
+    }, {
+      "name" : "Denmark",
+      "alpha2_code" : "DK",
+      "alpha3_code" : "DNK"
+    }, {
+      "name" : "Djibouti",
+      "alpha2_code" : "DJ",
+      "alpha3_code" : "DJI"
+    }, {
+      "name" : "Dominica",
+      "alpha2_code" : "DM",
+      "alpha3_code" : "DMA"
+    }, {
+      "name" : "Dominican Republic",
+      "alpha2_code" : "DO",
+      "alpha3_code" : "DOM"
+    }, {
+      "name" : "Ecuador",
+      "alpha2_code" : "EC",
+      "alpha3_code" : "ECU"
+    }, {
+      "name" : "Egypt",
+      "alpha2_code" : "EG",
+      "alpha3_code" : "EGY"
+    }, {
+      "name" : "El Salvador",
+      "alpha2_code" : "SV",
+      "alpha3_code" : "SLV"
+    }, {
+      "name" : "Equatorial Guinea",
+      "alpha2_code" : "GQ",
+      "alpha3_code" : "GNQ"
+    }, {
+      "name" : "Eritrea",
+      "alpha2_code" : "ER",
+      "alpha3_code" : "ERI"
+    }, {
+      "name" : "Estonia",
+      "alpha2_code" : "EE",
+      "alpha3_code" : "EST"
+    }, {
+      "name" : "Ethiopia",
+      "alpha2_code" : "ET",
+      "alpha3_code" : "ETH"
+    }, {
+      "name" : "Falkland Islands (Malvinas)",
+      "alpha2_code" : "FK",
+      "alpha3_code" : "FLK"
+    }, {
+      "name" : "Faroe Islands",
+      "alpha2_code" : "FO",
+      "alpha3_code" : "FRO"
+    }, {
+      "name" : "Fiji",
+      "alpha2_code" : "FJ",
+      "alpha3_code" : "FJI"
+    }, {
+      "name" : "Finland",
+      "alpha2_code" : "FI",
+      "alpha3_code" : "FIN"
+    }, {
+      "name" : "France",
+      "alpha2_code" : "FR",
+      "alpha3_code" : "FRA"
+    }, {
+      "name" : "French Guiana",
+      "alpha2_code" : "GF",
+      "alpha3_code" : "GUF"
+    }, {
+      "name" : "French Polynesia",
+      "alpha2_code" : "PF",
+      "alpha3_code" : "PYF"
+    }, {
+      "name" : "French Southern Territories",
+      "alpha2_code" : "TF",
+      "alpha3_code" : "ATF"
+    }, {
+      "name" : "Gabon",
+      "alpha2_code" : "GA",
+      "alpha3_code" : "GAB"
+    }, {
+      "name" : "Gambia",
+      "alpha2_code" : "GM",
+      "alpha3_code" : "GMB"
+    }, {
+      "name" : "Georgia",
+      "alpha2_code" : "GE",
+      "alpha3_code" : "GEO"
+    }, {
+      "name" : "Germany",
+      "alpha2_code" : "DE",
+      "alpha3_code" : "DEU"
+    }, {
+      "name" : "Ghana",
+      "alpha2_code" : "GH",
+      "alpha3_code" : "GHA"
+    }, {
+      "name" : "Gibraltar",
+      "alpha2_code" : "GI",
+      "alpha3_code" : "GIB"
+    }, {
+      "name" : "Greece",
+      "alpha2_code" : "GR",
+      "alpha3_code" : "GRC"
+    }, {
+      "name" : "Greenland",
+      "alpha2_code" : "GL",
+      "alpha3_code" : "GRL"
+    }, {
+      "name" : "Grenada",
+      "alpha2_code" : "GD",
+      "alpha3_code" : "GRD"
+    }, {
+      "name" : "Guadeloupe",
+      "alpha2_code" : "GP",
+      "alpha3_code" : "GLP"
+    }, {
+      "name" : "Guam",
+      "alpha2_code" : "GU",
+      "alpha3_code" : "GUM"
+    }, {
+      "name" : "Guatemala",
+      "alpha2_code" : "GT",
+      "alpha3_code" : "GTM"
+    }, {
+      "name" : "Guernsey",
+      "alpha2_code" : "GG",
+      "alpha3_code" : "GGY"
+    }, {
+      "name" : "Guinea",
+      "alpha2_code" : "GN",
+      "alpha3_code" : "GIN"
+    }, {
+      "name" : "Guinea-Bissau",
+      "alpha2_code" : "GW",
+      "alpha3_code" : "GNB"
+    }, {
+      "name" : "Guyana",
+      "alpha2_code" : "GY",
+      "alpha3_code" : "GUY"
+    }, {
+      "name" : "Haiti",
+      "alpha2_code" : "HT",
+      "alpha3_code" : "HTI"
+    }, {
+      "name" : "Heard Island and McDonald Islands",
+      "alpha2_code" : "HM",
+      "alpha3_code" : "HMD"
+    }, {
+      "name" : "Holy See",
+      "alpha2_code" : "VA",
+      "alpha3_code" : "VAT"
+    }, {
+      "name" : "Honduras",
+      "alpha2_code" : "HN",
+      "alpha3_code" : "HND"
+    }, {
+      "name" : "Hong Kong",
+      "alpha2_code" : "HK",
+      "alpha3_code" : "HKG"
+    }, {
+      "name" : "Hungary",
+      "alpha2_code" : "HU",
+      "alpha3_code" : "HUN"
+    }, {
+      "name" : "Iceland",
+      "alpha2_code" : "IS",
+      "alpha3_code" : "ISL"
+    }, {
+      "name" : "India",
+      "alpha2_code" : "IN",
+      "alpha3_code" : "IND"
+    }, {
+      "name" : "Indonesia",
+      "alpha2_code" : "ID",
+      "alpha3_code" : "IDN"
+    }, {
+      "name" : "Iran (Islamic Republic of)",
+      "alpha2_code" : "IR",
+      "alpha3_code" : "IRN"
+    }, {
+      "name" : "Iraq",
+      "alpha2_code" : "IQ",
+      "alpha3_code" : "IRQ"
+    }, {
+      "name" : "Ireland",
+      "alpha2_code" : "IE",
+      "alpha3_code" : "IRL"
+    }, {
+      "name" : "Isle of Man",
+      "alpha2_code" : "IM",
+      "alpha3_code" : "IMN"
+    }, {
+      "name" : "Israel",
+      "alpha2_code" : "IL",
+      "alpha3_code" : "ISR"
+    }, {
+      "name" : "Italy",
+      "alpha2_code" : "IT",
+      "alpha3_code" : "ITA"
+    }, {
+      "name" : "Jamaica",
+      "alpha2_code" : "JM",
+      "alpha3_code" : "JAM"
+    }, {
+      "name" : "Japan",
+      "alpha2_code" : "JP",
+      "alpha3_code" : "JPN"
+    }, {
+      "name" : "Jersey",
+      "alpha2_code" : "JE",
+      "alpha3_code" : "JEY"
+    }, {
+      "name" : "Jordan",
+      "alpha2_code" : "JO",
+      "alpha3_code" : "JOR"
+    }, {
+      "name" : "Kazakhstan",
+      "alpha2_code" : "KZ",
+      "alpha3_code" : "KAZ"
+    }, {
+      "name" : "Kenya",
+      "alpha2_code" : "KE",
+      "alpha3_code" : "KEN"
+    }, {
+      "name" : "Kiribati",
+      "alpha2_code" : "KI",
+      "alpha3_code" : "KIR"
+    }, {
+      "name" : "Korea (Democratic People's Republic of)",
+      "alpha2_code" : "KP",
+      "alpha3_code" : "PRK"
+    }, {
+      "name" : "Korea (Republic of)",
+      "alpha2_code" : "KR",
+      "alpha3_code" : "KOR"
+    }, {
+      "name" : "Kuwait",
+      "alpha2_code" : "KW",
+      "alpha3_code" : "KWT"
+    }, {
+      "name" : "Kyrgyzstan",
+      "alpha2_code" : "KG",
+      "alpha3_code" : "KGZ"
+    }, {
+      "name" : "Lao People's Democratic Republic",
+      "alpha2_code" : "LA",
+      "alpha3_code" : "LAO"
+    }, {
+      "name" : "Latvia",
+      "alpha2_code" : "LV",
+      "alpha3_code" : "LVA"
+    }, {
+      "name" : "Lebanon",
+      "alpha2_code" : "LB",
+      "alpha3_code" : "LBN"
+    }, {
+      "name" : "Lesotho",
+      "alpha2_code" : "LS",
+      "alpha3_code" : "LSO"
+    }, {
+      "name" : "Liberia",
+      "alpha2_code" : "LR",
+      "alpha3_code" : "LBR"
+    }, {
+      "name" : "Libya",
+      "alpha2_code" : "LY",
+      "alpha3_code" : "LBY"
+    }, {
+      "name" : "Liechtenstein",
+      "alpha2_code" : "LI",
+      "alpha3_code" : "LIE"
+    }, {
+      "name" : "Lithuania",
+      "alpha2_code" : "LT",
+      "alpha3_code" : "LTU"
+    }, {
+      "name" : "Luxembourg",
+      "alpha2_code" : "LU",
+      "alpha3_code" : "LUX"
+    }, {
+      "name" : "Macao",
+      "alpha2_code" : "MO",
+      "alpha3_code" : "MAC"
+    }, {
+      "name" : "Macedonia (the former Yugoslav Republic of)",
+      "alpha2_code" : "MK",
+      "alpha3_code" : "MKD"
+    }, {
+      "name" : "Madagascar",
+      "alpha2_code" : "MG",
+      "alpha3_code" : "MDG"
+    }, {
+      "name" : "Malawi",
+      "alpha2_code" : "MW",
+      "alpha3_code" : "MWI"
+    }, {
+      "name" : "Malaysia",
+      "alpha2_code" : "MY",
+      "alpha3_code" : "MYS"
+    }, {
+      "name" : "Maldives",
+      "alpha2_code" : "MV",
+      "alpha3_code" : "MDV"
+    }, {
+      "name" : "Mali",
+      "alpha2_code" : "ML",
+      "alpha3_code" : "MLI"
+    }, {
+      "name" : "Malta",
+      "alpha2_code" : "MT",
+      "alpha3_code" : "MLT"
+    }, {
+      "name" : "Marshall Islands",
+      "alpha2_code" : "MH",
+      "alpha3_code" : "MHL"
+    }, {
+      "name" : "Martinique",
+      "alpha2_code" : "MQ",
+      "alpha3_code" : "MTQ"
+    }, {
+      "name" : "Mauritania",
+      "alpha2_code" : "MR",
+      "alpha3_code" : "MRT"
+    }, {
+      "name" : "Mauritius",
+      "alpha2_code" : "MU",
+      "alpha3_code" : "MUS"
+    }, {
+      "name" : "Mayotte",
+      "alpha2_code" : "YT",
+      "alpha3_code" : "MYT"
+    }, {
+      "name" : "Mexico",
+      "alpha2_code" : "MX",
+      "alpha3_code" : "MEX"
+    }, {
+      "name" : "Micronesia (Federated States of)",
+      "alpha2_code" : "FM",
+      "alpha3_code" : "FSM"
+    }, {
+      "name" : "Moldova (Republic of)",
+      "alpha2_code" : "MD",
+      "alpha3_code" : "MDA"
+    }, {
+      "name" : "Monaco",
+      "alpha2_code" : "MC",
+      "alpha3_code" : "MCO"
+    }, {
+      "name" : "Mongolia",
+      "alpha2_code" : "MN",
+      "alpha3_code" : "MNG"
+    }, {
+      "name" : "Montenegro",
+      "alpha2_code" : "ME",
+      "alpha3_code" : "MNE"
+    }, {
+      "name" : "Montserrat",
+      "alpha2_code" : "MS",
+      "alpha3_code" : "MSR"
+    }, {
+      "name" : "Morocco",
+      "alpha2_code" : "MA",
+      "alpha3_code" : "MAR"
+    }, {
+      "name" : "Mozambique",
+      "alpha2_code" : "MZ",
+      "alpha3_code" : "MOZ"
+    }, {
+      "name" : "Myanmar",
+      "alpha2_code" : "MM",
+      "alpha3_code" : "MMR"
+    }, {
+      "name" : "Namibia",
+      "alpha2_code" : "NA",
+      "alpha3_code" : "NAM"
+    }, {
+      "name" : "Nauru",
+      "alpha2_code" : "NR",
+      "alpha3_code" : "NRU"
+    }, {
+      "name" : "Nepal",
+      "alpha2_code" : "NP",
+      "alpha3_code" : "NPL"
+    }, {
+      "name" : "Netherlands",
+      "alpha2_code" : "NL",
+      "alpha3_code" : "NLD"
+    }, {
+      "name" : "New Caledonia",
+      "alpha2_code" : "NC",
+      "alpha3_code" : "NCL"
+    }, {
+      "name" : "New Zealand",
+      "alpha2_code" : "NZ",
+      "alpha3_code" : "NZL"
+    }, {
+      "name" : "Nicaragua",
+      "alpha2_code" : "NI",
+      "alpha3_code" : "NIC"
+    }, {
+      "name" : "Niger",
+      "alpha2_code" : "NE",
+      "alpha3_code" : "NER"
+    }, {
+      "name" : "Nigeria",
+      "alpha2_code" : "NG",
+      "alpha3_code" : "NGA"
+    }, {
+      "name" : "Niue",
+      "alpha2_code" : "NU",
+      "alpha3_code" : "NIU"
+    }, {
+      "name" : "Norfolk Island",
+      "alpha2_code" : "NF",
+      "alpha3_code" : "NFK"
+    }, {
+      "name" : "Northern Mariana Islands",
+      "alpha2_code" : "MP",
+      "alpha3_code" : "MNP"
+    }, {
+      "name" : "Norway",
+      "alpha2_code" : "NO",
+      "alpha3_code" : "NOR"
+    }, {
+      "name" : "Oman",
+      "alpha2_code" : "OM",
+      "alpha3_code" : "OMN"
+    }, {
+      "name" : "Pakistan",
+      "alpha2_code" : "PK",
+      "alpha3_code" : "PAK"
+    }, {
+      "name" : "Palau",
+      "alpha2_code" : "PW",
+      "alpha3_code" : "PLW"
+    }, {
+      "name" : "Palestine, State of",
+      "alpha2_code" : "PS",
+      "alpha3_code" : "PSE"
+    }, {
+      "name" : "Panama",
+      "alpha2_code" : "PA",
+      "alpha3_code" : "PAN"
+    }, {
+      "name" : "Papua New Guinea",
+      "alpha2_code" : "PG",
+      "alpha3_code" : "PNG"
+    }, {
+      "name" : "Paraguay",
+      "alpha2_code" : "PY",
+      "alpha3_code" : "PRY"
+    }, {
+      "name" : "Peru",
+      "alpha2_code" : "PE",
+      "alpha3_code" : "PER"
+    }, {
+      "name" : "Philippines",
+      "alpha2_code" : "PH",
+      "alpha3_code" : "PHL"
+    }, {
+      "name" : "Pitcairn",
+      "alpha2_code" : "PN",
+      "alpha3_code" : "PCN"
+    }, {
+      "name" : "Poland",
+      "alpha2_code" : "PL",
+      "alpha3_code" : "POL"
+    }, {
+      "name" : "Portugal",
+      "alpha2_code" : "PT",
+      "alpha3_code" : "PRT"
+    }, {
+      "name" : "Puerto Rico",
+      "alpha2_code" : "PR",
+      "alpha3_code" : "PRI"
+    }, {
+      "name" : "Qatar",
+      "alpha2_code" : "QA",
+      "alpha3_code" : "QAT"
+    }, {
+      "name" : "Réunion",
+      "alpha2_code" : "RE",
+      "alpha3_code" : "REU"
+    }, {
+      "name" : "Romania",
+      "alpha2_code" : "RO",
+      "alpha3_code" : "ROU"
+    }, {
+      "name" : "Russian Federation",
+      "alpha2_code" : "RU",
+      "alpha3_code" : "RUS"
+    }, {
+      "name" : "Rwanda",
+      "alpha2_code" : "RW",
+      "alpha3_code" : "RWA"
+    }, {
+      "name" : "Saint Barthélemy",
+      "alpha2_code" : "BL",
+      "alpha3_code" : "BLM"
+    }, {
+      "name" : "Saint Helena, Ascension and Tristan da Cunha",
+      "alpha2_code" : "SH",
+      "alpha3_code" : "SHN"
+    }, {
+      "name" : "Saint Kitts and Nevis",
+      "alpha2_code" : "KN",
+      "alpha3_code" : "KNA"
+    }, {
+      "name" : "Saint Lucia",
+      "alpha2_code" : "LC",
+      "alpha3_code" : "LCA"
+    }, {
+      "name" : "Saint Martin (French part)",
+      "alpha2_code" : "MF",
+      "alpha3_code" : "MAF"
+    }, {
+      "name" : "Saint Pierre and Miquelon",
+      "alpha2_code" : "PM",
+      "alpha3_code" : "SPM"
+    }, {
+      "name" : "Saint Vincent and the Grenadines",
+      "alpha2_code" : "VC",
+      "alpha3_code" : "VCT"
+    }, {
+      "name" : "Samoa",
+      "alpha2_code" : "WS",
+      "alpha3_code" : "WSM"
+    }, {
+      "name" : "San Marino",
+      "alpha2_code" : "SM",
+      "alpha3_code" : "SMR"
+    }, {
+      "name" : "Sao Tome and Principe",
+      "alpha2_code" : "ST",
+      "alpha3_code" : "STP"
+    }, {
+      "name" : "Saudi Arabia",
+      "alpha2_code" : "SA",
+      "alpha3_code" : "SAU"
+    }, {
+      "name" : "Senegal",
+      "alpha2_code" : "SN",
+      "alpha3_code" : "SEN"
+    }, {
+      "name" : "Serbia",
+      "alpha2_code" : "RS",
+      "alpha3_code" : "SRB"
+    }, {
+      "name" : "Seychelles",
+      "alpha2_code" : "SC",
+      "alpha3_code" : "SYC"
+    }, {
+      "name" : "Sierra Leone",
+      "alpha2_code" : "SL",
+      "alpha3_code" : "SLE"
+    }, {
+      "name" : "Singapore",
+      "alpha2_code" : "SG",
+      "alpha3_code" : "SGP"
+    }, {
+      "name" : "Sint Maarten (Dutch part)",
+      "alpha2_code" : "SX",
+      "alpha3_code" : "SXM"
+    }, {
+      "name" : "Slovakia",
+      "alpha2_code" : "SK",
+      "alpha3_code" : "SVK"
+    }, {
+      "name" : "Slovenia",
+      "alpha2_code" : "SI",
+      "alpha3_code" : "SVN"
+    }, {
+      "name" : "Solomon Islands",
+      "alpha2_code" : "SB",
+      "alpha3_code" : "SLB"
+    }, {
+      "name" : "Somalia",
+      "alpha2_code" : "SO",
+      "alpha3_code" : "SOM"
+    }, {
+      "name" : "South Africa",
+      "alpha2_code" : "ZA",
+      "alpha3_code" : "ZAF"
+    }, {
+      "name" : "South Georgia and the South Sandwich Islands",
+      "alpha2_code" : "GS",
+      "alpha3_code" : "SGS"
+    }, {
+      "name" : "South Sudan",
+      "alpha2_code" : "SS",
+      "alpha3_code" : "SSD"
+    }, {
+      "name" : "Spain",
+      "alpha2_code" : "ES",
+      "alpha3_code" : "ESP"
+    }, {
+      "name" : "Sri Lanka",
+      "alpha2_code" : "LK",
+      "alpha3_code" : "LKA"
+    }, {
+      "name" : "Sudan",
+      "alpha2_code" : "SD",
+      "alpha3_code" : "SDN"
+    }, {
+      "name" : "Suriname",
+      "alpha2_code" : "SR",
+      "alpha3_code" : "SUR"
+    }, {
+      "name" : "Svalbard and Jan Mayen",
+      "alpha2_code" : "SJ",
+      "alpha3_code" : "SJM"
+    }, {
+      "name" : "Swaziland",
+      "alpha2_code" : "SZ",
+      "alpha3_code" : "SWZ"
+    }, {
+      "name" : "Sweden",
+      "alpha2_code" : "SE",
+      "alpha3_code" : "SWE"
+    }, {
+      "name" : "Switzerland",
+      "alpha2_code" : "CH",
+      "alpha3_code" : "CHE"
+    }, {
+      "name" : "Syrian Arab Republic",
+      "alpha2_code" : "SY",
+      "alpha3_code" : "SYR"
+    }, {
+      "name" : "Taiwan, Province of China",
+      "alpha2_code" : "TW",
+      "alpha3_code" : "TWN"
+    }, {
+      "name" : "Tajikistan",
+      "alpha2_code" : "TJ",
+      "alpha3_code" : "TJK"
+    }, {
+      "name" : "Tanzania, United Republic of",
+      "alpha2_code" : "TZ",
+      "alpha3_code" : "TZA"
+    }, {
+      "name" : "Thailand",
+      "alpha2_code" : "TH",
+      "alpha3_code" : "THA"
+    }, {
+      "name" : "Timor-Leste",
+      "alpha2_code" : "TL",
+      "alpha3_code" : "TLS"
+    }, {
+      "name" : "Togo",
+      "alpha2_code" : "TG",
+      "alpha3_code" : "TGO"
+    }, {
+      "name" : "Tokelau",
+      "alpha2_code" : "TK",
+      "alpha3_code" : "TKL"
+    }, {
+      "name" : "Tonga",
+      "alpha2_code" : "TO",
+      "alpha3_code" : "TON"
+    }, {
+      "name" : "Trinidad and Tobago",
+      "alpha2_code" : "TT",
+      "alpha3_code" : "TTO"
+    }, {
+      "name" : "Tunisia",
+      "alpha2_code" : "TN",
+      "alpha3_code" : "TUN"
+    }, {
+      "name" : "Turkey",
+      "alpha2_code" : "TR",
+      "alpha3_code" : "TUR"
+    }, {
+      "name" : "Turkmenistan",
+      "alpha2_code" : "TM",
+      "alpha3_code" : "TKM"
+    }, {
+      "name" : "Turks and Caicos Islands",
+      "alpha2_code" : "TC",
+      "alpha3_code" : "TCA"
+    }, {
+      "name" : "Tuvalu",
+      "alpha2_code" : "TV",
+      "alpha3_code" : "TUV"
+    }, {
+      "name" : "Uganda",
+      "alpha2_code" : "UG",
+      "alpha3_code" : "UGA"
+    }, {
+      "name" : "Ukraine",
+      "alpha2_code" : "UA",
+      "alpha3_code" : "UKR"
+    }, {
+      "name" : "United Arab Emirates",
+      "alpha2_code" : "AE",
+      "alpha3_code" : "ARE"
+    }, {
+      "name" : "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2_code" : "GB",
+      "alpha3_code" : "GBR"
+    }, {
+      "name" : "United States of America",
+      "alpha2_code" : "US",
+      "alpha3_code" : "USA"
+    }, {
+      "name" : "United States Minor Outlying Islands",
+      "alpha2_code" : "UM",
+      "alpha3_code" : "UMI"
+    }, {
+      "name" : "Uruguay",
+      "alpha2_code" : "UY",
+      "alpha3_code" : "URY"
+    }, {
+      "name" : "Uzbekistan",
+      "alpha2_code" : "UZ",
+      "alpha3_code" : "UZB"
+    }, {
+      "name" : "Vanuatu",
+      "alpha2_code" : "VU",
+      "alpha3_code" : "VUT"
+    }, {
+      "name" : "Venezuela (Bolivarian Republic of)",
+      "alpha2_code" : "VE",
+      "alpha3_code" : "VEN"
+    }, {
+      "name" : "Viet Nam",
+      "alpha2_code" : "VN",
+      "alpha3_code" : "VNM"
+    }, {
+      "name" : "Virgin Islands (British)",
+      "alpha2_code" : "VG",
+      "alpha3_code" : "VGB"
+    }, {
+      "name" : "Virgin Islands (U.S.)",
+      "alpha2_code" : "VI",
+      "alpha3_code" : "VIR"
+    }, {
+      "name" : "Wallis and Futuna",
+      "alpha2_code" : "WF",
+      "alpha3_code" : "WLF"
+    }, {
+      "name" : "Western Sahara",
+      "alpha2_code" : "EH",
+      "alpha3_code" : "ESH"
+    }, {
+      "name" : "Yemen",
+      "alpha2_code" : "YE",
+      "alpha3_code" : "YEM"
+    }, {
+      "name" : "Zambia",
+      "alpha2_code" : "ZM",
+      "alpha3_code" : "ZMB"
+    }, {
+      "name" : "Zimbabwe",
+      "alpha2_code" : "ZW",
+      "alpha3_code" : "ZWE"
+    } ]
+  }
+}
+2017-04-13 01:21:19,513- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:21:19,514- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:24:10,361- api.Request -INFO – Response : {
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Total [249] records found." ],
+    "result" : [ {
+      "name" : "Afghanistan",
+      "alpha2_code" : "AF",
+      "alpha3_code" : "AFG"
+    }, {
+      "name" : "Åland Islands",
+      "alpha2_code" : "AX",
+      "alpha3_code" : "ALA"
+    }, {
+      "name" : "Albania",
+      "alpha2_code" : "AL",
+      "alpha3_code" : "ALB"
+    }, {
+      "name" : "Algeria",
+      "alpha2_code" : "DZ",
+      "alpha3_code" : "DZA"
+    }, {
+      "name" : "American Samoa",
+      "alpha2_code" : "AS",
+      "alpha3_code" : "ASM"
+    }, {
+      "name" : "Andorra",
+      "alpha2_code" : "AD",
+      "alpha3_code" : "AND"
+    }, {
+      "name" : "Angola",
+      "alpha2_code" : "AO",
+      "alpha3_code" : "AGO"
+    }, {
+      "name" : "Anguilla",
+      "alpha2_code" : "AI",
+      "alpha3_code" : "AIA"
+    }, {
+      "name" : "Antarctica",
+      "alpha2_code" : "AQ",
+      "alpha3_code" : "ATA"
+    }, {
+      "name" : "Antigua and Barbuda",
+      "alpha2_code" : "AG",
+      "alpha3_code" : "ATG"
+    }, {
+      "name" : "Argentina",
+      "alpha2_code" : "AR",
+      "alpha3_code" : "ARG"
+    }, {
+      "name" : "Armenia",
+      "alpha2_code" : "AM",
+      "alpha3_code" : "ARM"
+    }, {
+      "name" : "Aruba",
+      "alpha2_code" : "AW",
+      "alpha3_code" : "ABW"
+    }, {
+      "name" : "Australia",
+      "alpha2_code" : "AU",
+      "alpha3_code" : "AUS"
+    }, {
+      "name" : "Austria",
+      "alpha2_code" : "AT",
+      "alpha3_code" : "AUT"
+    }, {
+      "name" : "Azerbaijan",
+      "alpha2_code" : "AZ",
+      "alpha3_code" : "AZE"
+    }, {
+      "name" : "Bahamas",
+      "alpha2_code" : "BS",
+      "alpha3_code" : "BHS"
+    }, {
+      "name" : "Bahrain",
+      "alpha2_code" : "BH",
+      "alpha3_code" : "BHR"
+    }, {
+      "name" : "Bangladesh",
+      "alpha2_code" : "BD",
+      "alpha3_code" : "BGD"
+    }, {
+      "name" : "Barbados",
+      "alpha2_code" : "BB",
+      "alpha3_code" : "BRB"
+    }, {
+      "name" : "Belarus",
+      "alpha2_code" : "BY",
+      "alpha3_code" : "BLR"
+    }, {
+      "name" : "Belgium",
+      "alpha2_code" : "BE",
+      "alpha3_code" : "BEL"
+    }, {
+      "name" : "Belize",
+      "alpha2_code" : "BZ",
+      "alpha3_code" : "BLZ"
+    }, {
+      "name" : "Benin",
+      "alpha2_code" : "BJ",
+      "alpha3_code" : "BEN"
+    }, {
+      "name" : "Bermuda",
+      "alpha2_code" : "BM",
+      "alpha3_code" : "BMU"
+    }, {
+      "name" : "Bhutan",
+      "alpha2_code" : "BT",
+      "alpha3_code" : "BTN"
+    }, {
+      "name" : "Bolivia (Plurinational State of)",
+      "alpha2_code" : "BO",
+      "alpha3_code" : "BOL"
+    }, {
+      "name" : "Bonaire, Sint Eustatius and Saba",
+      "alpha2_code" : "BQ",
+      "alpha3_code" : "BES"
+    }, {
+      "name" : "Bosnia and Herzegovina",
+      "alpha2_code" : "BA",
+      "alpha3_code" : "BIH"
+    }, {
+      "name" : "Botswana",
+      "alpha2_code" : "BW",
+      "alpha3_code" : "BWA"
+    }, {
+      "name" : "Bouvet Island",
+      "alpha2_code" : "BV",
+      "alpha3_code" : "BVT"
+    }, {
+      "name" : "Brazil",
+      "alpha2_code" : "BR",
+      "alpha3_code" : "BRA"
+    }, {
+      "name" : "British Indian Ocean Territory",
+      "alpha2_code" : "IO",
+      "alpha3_code" : "IOT"
+    }, {
+      "name" : "Brunei Darussalam",
+      "alpha2_code" : "BN",
+      "alpha3_code" : "BRN"
+    }, {
+      "name" : "Bulgaria",
+      "alpha2_code" : "BG",
+      "alpha3_code" : "BGR"
+    }, {
+      "name" : "Burkina Faso",
+      "alpha2_code" : "BF",
+      "alpha3_code" : "BFA"
+    }, {
+      "name" : "Burundi",
+      "alpha2_code" : "BI",
+      "alpha3_code" : "BDI"
+    }, {
+      "name" : "Cambodia",
+      "alpha2_code" : "KH",
+      "alpha3_code" : "KHM"
+    }, {
+      "name" : "Cameroon",
+      "alpha2_code" : "CM",
+      "alpha3_code" : "CMR"
+    }, {
+      "name" : "Canada",
+      "alpha2_code" : "CA",
+      "alpha3_code" : "CAN"
+    }, {
+      "name" : "Cabo Verde",
+      "alpha2_code" : "CV",
+      "alpha3_code" : "CPV"
+    }, {
+      "name" : "Cayman Islands",
+      "alpha2_code" : "KY",
+      "alpha3_code" : "CYM"
+    }, {
+      "name" : "Central African Republic",
+      "alpha2_code" : "CF",
+      "alpha3_code" : "CAF"
+    }, {
+      "name" : "Chad",
+      "alpha2_code" : "TD",
+      "alpha3_code" : "TCD"
+    }, {
+      "name" : "Chile",
+      "alpha2_code" : "CL",
+      "alpha3_code" : "CHL"
+    }, {
+      "name" : "China",
+      "alpha2_code" : "CN",
+      "alpha3_code" : "CHN"
+    }, {
+      "name" : "Christmas Island",
+      "alpha2_code" : "CX",
+      "alpha3_code" : "CXR"
+    }, {
+      "name" : "Cocos (Keeling) Islands",
+      "alpha2_code" : "CC",
+      "alpha3_code" : "CCK"
+    }, {
+      "name" : "Colombia",
+      "alpha2_code" : "CO",
+      "alpha3_code" : "COL"
+    }, {
+      "name" : "Comoros",
+      "alpha2_code" : "KM",
+      "alpha3_code" : "COM"
+    }, {
+      "name" : "Congo",
+      "alpha2_code" : "CG",
+      "alpha3_code" : "COG"
+    }, {
+      "name" : "Congo (Democratic Republic of the)",
+      "alpha2_code" : "CD",
+      "alpha3_code" : "COD"
+    }, {
+      "name" : "Cook Islands",
+      "alpha2_code" : "CK",
+      "alpha3_code" : "COK"
+    }, {
+      "name" : "Costa Rica",
+      "alpha2_code" : "CR",
+      "alpha3_code" : "CRI"
+    }, {
+      "name" : "Côte d'Ivoire",
+      "alpha2_code" : "CI",
+      "alpha3_code" : "CIV"
+    }, {
+      "name" : "Croatia",
+      "alpha2_code" : "HR",
+      "alpha3_code" : "HRV"
+    }, {
+      "name" : "Cuba",
+      "alpha2_code" : "CU",
+      "alpha3_code" : "CUB"
+    }, {
+      "name" : "Curaçao",
+      "alpha2_code" : "CW",
+      "alpha3_code" : "CUW"
+    }, {
+      "name" : "Cyprus",
+      "alpha2_code" : "CY",
+      "alpha3_code" : "CYP"
+    }, {
+      "name" : "Czech Republic",
+      "alpha2_code" : "CZ",
+      "alpha3_code" : "CZE"
+    }, {
+      "name" : "Denmark",
+      "alpha2_code" : "DK",
+      "alpha3_code" : "DNK"
+    }, {
+      "name" : "Djibouti",
+      "alpha2_code" : "DJ",
+      "alpha3_code" : "DJI"
+    }, {
+      "name" : "Dominica",
+      "alpha2_code" : "DM",
+      "alpha3_code" : "DMA"
+    }, {
+      "name" : "Dominican Republic",
+      "alpha2_code" : "DO",
+      "alpha3_code" : "DOM"
+    }, {
+      "name" : "Ecuador",
+      "alpha2_code" : "EC",
+      "alpha3_code" : "ECU"
+    }, {
+      "name" : "Egypt",
+      "alpha2_code" : "EG",
+      "alpha3_code" : "EGY"
+    }, {
+      "name" : "El Salvador",
+      "alpha2_code" : "SV",
+      "alpha3_code" : "SLV"
+    }, {
+      "name" : "Equatorial Guinea",
+      "alpha2_code" : "GQ",
+      "alpha3_code" : "GNQ"
+    }, {
+      "name" : "Eritrea",
+      "alpha2_code" : "ER",
+      "alpha3_code" : "ERI"
+    }, {
+      "name" : "Estonia",
+      "alpha2_code" : "EE",
+      "alpha3_code" : "EST"
+    }, {
+      "name" : "Ethiopia",
+      "alpha2_code" : "ET",
+      "alpha3_code" : "ETH"
+    }, {
+      "name" : "Falkland Islands (Malvinas)",
+      "alpha2_code" : "FK",
+      "alpha3_code" : "FLK"
+    }, {
+      "name" : "Faroe Islands",
+      "alpha2_code" : "FO",
+      "alpha3_code" : "FRO"
+    }, {
+      "name" : "Fiji",
+      "alpha2_code" : "FJ",
+      "alpha3_code" : "FJI"
+    }, {
+      "name" : "Finland",
+      "alpha2_code" : "FI",
+      "alpha3_code" : "FIN"
+    }, {
+      "name" : "France",
+      "alpha2_code" : "FR",
+      "alpha3_code" : "FRA"
+    }, {
+      "name" : "French Guiana",
+      "alpha2_code" : "GF",
+      "alpha3_code" : "GUF"
+    }, {
+      "name" : "French Polynesia",
+      "alpha2_code" : "PF",
+      "alpha3_code" : "PYF"
+    }, {
+      "name" : "French Southern Territories",
+      "alpha2_code" : "TF",
+      "alpha3_code" : "ATF"
+    }, {
+      "name" : "Gabon",
+      "alpha2_code" : "GA",
+      "alpha3_code" : "GAB"
+    }, {
+      "name" : "Gambia",
+      "alpha2_code" : "GM",
+      "alpha3_code" : "GMB"
+    }, {
+      "name" : "Georgia",
+      "alpha2_code" : "GE",
+      "alpha3_code" : "GEO"
+    }, {
+      "name" : "Germany",
+      "alpha2_code" : "DE",
+      "alpha3_code" : "DEU"
+    }, {
+      "name" : "Ghana",
+      "alpha2_code" : "GH",
+      "alpha3_code" : "GHA"
+    }, {
+      "name" : "Gibraltar",
+      "alpha2_code" : "GI",
+      "alpha3_code" : "GIB"
+    }, {
+      "name" : "Greece",
+      "alpha2_code" : "GR",
+      "alpha3_code" : "GRC"
+    }, {
+      "name" : "Greenland",
+      "alpha2_code" : "GL",
+      "alpha3_code" : "GRL"
+    }, {
+      "name" : "Grenada",
+      "alpha2_code" : "GD",
+      "alpha3_code" : "GRD"
+    }, {
+      "name" : "Guadeloupe",
+      "alpha2_code" : "GP",
+      "alpha3_code" : "GLP"
+    }, {
+      "name" : "Guam",
+      "alpha2_code" : "GU",
+      "alpha3_code" : "GUM"
+    }, {
+      "name" : "Guatemala",
+      "alpha2_code" : "GT",
+      "alpha3_code" : "GTM"
+    }, {
+      "name" : "Guernsey",
+      "alpha2_code" : "GG",
+      "alpha3_code" : "GGY"
+    }, {
+      "name" : "Guinea",
+      "alpha2_code" : "GN",
+      "alpha3_code" : "GIN"
+    }, {
+      "name" : "Guinea-Bissau",
+      "alpha2_code" : "GW",
+      "alpha3_code" : "GNB"
+    }, {
+      "name" : "Guyana",
+      "alpha2_code" : "GY",
+      "alpha3_code" : "GUY"
+    }, {
+      "name" : "Haiti",
+      "alpha2_code" : "HT",
+      "alpha3_code" : "HTI"
+    }, {
+      "name" : "Heard Island and McDonald Islands",
+      "alpha2_code" : "HM",
+      "alpha3_code" : "HMD"
+    }, {
+      "name" : "Holy See",
+      "alpha2_code" : "VA",
+      "alpha3_code" : "VAT"
+    }, {
+      "name" : "Honduras",
+      "alpha2_code" : "HN",
+      "alpha3_code" : "HND"
+    }, {
+      "name" : "Hong Kong",
+      "alpha2_code" : "HK",
+      "alpha3_code" : "HKG"
+    }, {
+      "name" : "Hungary",
+      "alpha2_code" : "HU",
+      "alpha3_code" : "HUN"
+    }, {
+      "name" : "Iceland",
+      "alpha2_code" : "IS",
+      "alpha3_code" : "ISL"
+    }, {
+      "name" : "India",
+      "alpha2_code" : "IN",
+      "alpha3_code" : "IND"
+    }, {
+      "name" : "Indonesia",
+      "alpha2_code" : "ID",
+      "alpha3_code" : "IDN"
+    }, {
+      "name" : "Iran (Islamic Republic of)",
+      "alpha2_code" : "IR",
+      "alpha3_code" : "IRN"
+    }, {
+      "name" : "Iraq",
+      "alpha2_code" : "IQ",
+      "alpha3_code" : "IRQ"
+    }, {
+      "name" : "Ireland",
+      "alpha2_code" : "IE",
+      "alpha3_code" : "IRL"
+    }, {
+      "name" : "Isle of Man",
+      "alpha2_code" : "IM",
+      "alpha3_code" : "IMN"
+    }, {
+      "name" : "Israel",
+      "alpha2_code" : "IL",
+      "alpha3_code" : "ISR"
+    }, {
+      "name" : "Italy",
+      "alpha2_code" : "IT",
+      "alpha3_code" : "ITA"
+    }, {
+      "name" : "Jamaica",
+      "alpha2_code" : "JM",
+      "alpha3_code" : "JAM"
+    }, {
+      "name" : "Japan",
+      "alpha2_code" : "JP",
+      "alpha3_code" : "JPN"
+    }, {
+      "name" : "Jersey",
+      "alpha2_code" : "JE",
+      "alpha3_code" : "JEY"
+    }, {
+      "name" : "Jordan",
+      "alpha2_code" : "JO",
+      "alpha3_code" : "JOR"
+    }, {
+      "name" : "Kazakhstan",
+      "alpha2_code" : "KZ",
+      "alpha3_code" : "KAZ"
+    }, {
+      "name" : "Kenya",
+      "alpha2_code" : "KE",
+      "alpha3_code" : "KEN"
+    }, {
+      "name" : "Kiribati",
+      "alpha2_code" : "KI",
+      "alpha3_code" : "KIR"
+    }, {
+      "name" : "Korea (Democratic People's Republic of)",
+      "alpha2_code" : "KP",
+      "alpha3_code" : "PRK"
+    }, {
+      "name" : "Korea (Republic of)",
+      "alpha2_code" : "KR",
+      "alpha3_code" : "KOR"
+    }, {
+      "name" : "Kuwait",
+      "alpha2_code" : "KW",
+      "alpha3_code" : "KWT"
+    }, {
+      "name" : "Kyrgyzstan",
+      "alpha2_code" : "KG",
+      "alpha3_code" : "KGZ"
+    }, {
+      "name" : "Lao People's Democratic Republic",
+      "alpha2_code" : "LA",
+      "alpha3_code" : "LAO"
+    }, {
+      "name" : "Latvia",
+      "alpha2_code" : "LV",
+      "alpha3_code" : "LVA"
+    }, {
+      "name" : "Lebanon",
+      "alpha2_code" : "LB",
+      "alpha3_code" : "LBN"
+    }, {
+      "name" : "Lesotho",
+      "alpha2_code" : "LS",
+      "alpha3_code" : "LSO"
+    }, {
+      "name" : "Liberia",
+      "alpha2_code" : "LR",
+      "alpha3_code" : "LBR"
+    }, {
+      "name" : "Libya",
+      "alpha2_code" : "LY",
+      "alpha3_code" : "LBY"
+    }, {
+      "name" : "Liechtenstein",
+      "alpha2_code" : "LI",
+      "alpha3_code" : "LIE"
+    }, {
+      "name" : "Lithuania",
+      "alpha2_code" : "LT",
+      "alpha3_code" : "LTU"
+    }, {
+      "name" : "Luxembourg",
+      "alpha2_code" : "LU",
+      "alpha3_code" : "LUX"
+    }, {
+      "name" : "Macao",
+      "alpha2_code" : "MO",
+      "alpha3_code" : "MAC"
+    }, {
+      "name" : "Macedonia (the former Yugoslav Republic of)",
+      "alpha2_code" : "MK",
+      "alpha3_code" : "MKD"
+    }, {
+      "name" : "Madagascar",
+      "alpha2_code" : "MG",
+      "alpha3_code" : "MDG"
+    }, {
+      "name" : "Malawi",
+      "alpha2_code" : "MW",
+      "alpha3_code" : "MWI"
+    }, {
+      "name" : "Malaysia",
+      "alpha2_code" : "MY",
+      "alpha3_code" : "MYS"
+    }, {
+      "name" : "Maldives",
+      "alpha2_code" : "MV",
+      "alpha3_code" : "MDV"
+    }, {
+      "name" : "Mali",
+      "alpha2_code" : "ML",
+      "alpha3_code" : "MLI"
+    }, {
+      "name" : "Malta",
+      "alpha2_code" : "MT",
+      "alpha3_code" : "MLT"
+    }, {
+      "name" : "Marshall Islands",
+      "alpha2_code" : "MH",
+      "alpha3_code" : "MHL"
+    }, {
+      "name" : "Martinique",
+      "alpha2_code" : "MQ",
+      "alpha3_code" : "MTQ"
+    }, {
+      "name" : "Mauritania",
+      "alpha2_code" : "MR",
+      "alpha3_code" : "MRT"
+    }, {
+      "name" : "Mauritius",
+      "alpha2_code" : "MU",
+      "alpha3_code" : "MUS"
+    }, {
+      "name" : "Mayotte",
+      "alpha2_code" : "YT",
+      "alpha3_code" : "MYT"
+    }, {
+      "name" : "Mexico",
+      "alpha2_code" : "MX",
+      "alpha3_code" : "MEX"
+    }, {
+      "name" : "Micronesia (Federated States of)",
+      "alpha2_code" : "FM",
+      "alpha3_code" : "FSM"
+    }, {
+      "name" : "Moldova (Republic of)",
+      "alpha2_code" : "MD",
+      "alpha3_code" : "MDA"
+    }, {
+      "name" : "Monaco",
+      "alpha2_code" : "MC",
+      "alpha3_code" : "MCO"
+    }, {
+      "name" : "Mongolia",
+      "alpha2_code" : "MN",
+      "alpha3_code" : "MNG"
+    }, {
+      "name" : "Montenegro",
+      "alpha2_code" : "ME",
+      "alpha3_code" : "MNE"
+    }, {
+      "name" : "Montserrat",
+      "alpha2_code" : "MS",
+      "alpha3_code" : "MSR"
+    }, {
+      "name" : "Morocco",
+      "alpha2_code" : "MA",
+      "alpha3_code" : "MAR"
+    }, {
+      "name" : "Mozambique",
+      "alpha2_code" : "MZ",
+      "alpha3_code" : "MOZ"
+    }, {
+      "name" : "Myanmar",
+      "alpha2_code" : "MM",
+      "alpha3_code" : "MMR"
+    }, {
+      "name" : "Namibia",
+      "alpha2_code" : "NA",
+      "alpha3_code" : "NAM"
+    }, {
+      "name" : "Nauru",
+      "alpha2_code" : "NR",
+      "alpha3_code" : "NRU"
+    }, {
+      "name" : "Nepal",
+      "alpha2_code" : "NP",
+      "alpha3_code" : "NPL"
+    }, {
+      "name" : "Netherlands",
+      "alpha2_code" : "NL",
+      "alpha3_code" : "NLD"
+    }, {
+      "name" : "New Caledonia",
+      "alpha2_code" : "NC",
+      "alpha3_code" : "NCL"
+    }, {
+      "name" : "New Zealand",
+      "alpha2_code" : "NZ",
+      "alpha3_code" : "NZL"
+    }, {
+      "name" : "Nicaragua",
+      "alpha2_code" : "NI",
+      "alpha3_code" : "NIC"
+    }, {
+      "name" : "Niger",
+      "alpha2_code" : "NE",
+      "alpha3_code" : "NER"
+    }, {
+      "name" : "Nigeria",
+      "alpha2_code" : "NG",
+      "alpha3_code" : "NGA"
+    }, {
+      "name" : "Niue",
+      "alpha2_code" : "NU",
+      "alpha3_code" : "NIU"
+    }, {
+      "name" : "Norfolk Island",
+      "alpha2_code" : "NF",
+      "alpha3_code" : "NFK"
+    }, {
+      "name" : "Northern Mariana Islands",
+      "alpha2_code" : "MP",
+      "alpha3_code" : "MNP"
+    }, {
+      "name" : "Norway",
+      "alpha2_code" : "NO",
+      "alpha3_code" : "NOR"
+    }, {
+      "name" : "Oman",
+      "alpha2_code" : "OM",
+      "alpha3_code" : "OMN"
+    }, {
+      "name" : "Pakistan",
+      "alpha2_code" : "PK",
+      "alpha3_code" : "PAK"
+    }, {
+      "name" : "Palau",
+      "alpha2_code" : "PW",
+      "alpha3_code" : "PLW"
+    }, {
+      "name" : "Palestine, State of",
+      "alpha2_code" : "PS",
+      "alpha3_code" : "PSE"
+    }, {
+      "name" : "Panama",
+      "alpha2_code" : "PA",
+      "alpha3_code" : "PAN"
+    }, {
+      "name" : "Papua New Guinea",
+      "alpha2_code" : "PG",
+      "alpha3_code" : "PNG"
+    }, {
+      "name" : "Paraguay",
+      "alpha2_code" : "PY",
+      "alpha3_code" : "PRY"
+    }, {
+      "name" : "Peru",
+      "alpha2_code" : "PE",
+      "alpha3_code" : "PER"
+    }, {
+      "name" : "Philippines",
+      "alpha2_code" : "PH",
+      "alpha3_code" : "PHL"
+    }, {
+      "name" : "Pitcairn",
+      "alpha2_code" : "PN",
+      "alpha3_code" : "PCN"
+    }, {
+      "name" : "Poland",
+      "alpha2_code" : "PL",
+      "alpha3_code" : "POL"
+    }, {
+      "name" : "Portugal",
+      "alpha2_code" : "PT",
+      "alpha3_code" : "PRT"
+    }, {
+      "name" : "Puerto Rico",
+      "alpha2_code" : "PR",
+      "alpha3_code" : "PRI"
+    }, {
+      "name" : "Qatar",
+      "alpha2_code" : "QA",
+      "alpha3_code" : "QAT"
+    }, {
+      "name" : "Réunion",
+      "alpha2_code" : "RE",
+      "alpha3_code" : "REU"
+    }, {
+      "name" : "Romania",
+      "alpha2_code" : "RO",
+      "alpha3_code" : "ROU"
+    }, {
+      "name" : "Russian Federation",
+      "alpha2_code" : "RU",
+      "alpha3_code" : "RUS"
+    }, {
+      "name" : "Rwanda",
+      "alpha2_code" : "RW",
+      "alpha3_code" : "RWA"
+    }, {
+      "name" : "Saint Barthélemy",
+      "alpha2_code" : "BL",
+      "alpha3_code" : "BLM"
+    }, {
+      "name" : "Saint Helena, Ascension and Tristan da Cunha",
+      "alpha2_code" : "SH",
+      "alpha3_code" : "SHN"
+    }, {
+      "name" : "Saint Kitts and Nevis",
+      "alpha2_code" : "KN",
+      "alpha3_code" : "KNA"
+    }, {
+      "name" : "Saint Lucia",
+      "alpha2_code" : "LC",
+      "alpha3_code" : "LCA"
+    }, {
+      "name" : "Saint Martin (French part)",
+      "alpha2_code" : "MF",
+      "alpha3_code" : "MAF"
+    }, {
+      "name" : "Saint Pierre and Miquelon",
+      "alpha2_code" : "PM",
+      "alpha3_code" : "SPM"
+    }, {
+      "name" : "Saint Vincent and the Grenadines",
+      "alpha2_code" : "VC",
+      "alpha3_code" : "VCT"
+    }, {
+      "name" : "Samoa",
+      "alpha2_code" : "WS",
+      "alpha3_code" : "WSM"
+    }, {
+      "name" : "San Marino",
+      "alpha2_code" : "SM",
+      "alpha3_code" : "SMR"
+    }, {
+      "name" : "Sao Tome and Principe",
+      "alpha2_code" : "ST",
+      "alpha3_code" : "STP"
+    }, {
+      "name" : "Saudi Arabia",
+      "alpha2_code" : "SA",
+      "alpha3_code" : "SAU"
+    }, {
+      "name" : "Senegal",
+      "alpha2_code" : "SN",
+      "alpha3_code" : "SEN"
+    }, {
+      "name" : "Serbia",
+      "alpha2_code" : "RS",
+      "alpha3_code" : "SRB"
+    }, {
+      "name" : "Seychelles",
+      "alpha2_code" : "SC",
+      "alpha3_code" : "SYC"
+    }, {
+      "name" : "Sierra Leone",
+      "alpha2_code" : "SL",
+      "alpha3_code" : "SLE"
+    }, {
+      "name" : "Singapore",
+      "alpha2_code" : "SG",
+      "alpha3_code" : "SGP"
+    }, {
+      "name" : "Sint Maarten (Dutch part)",
+      "alpha2_code" : "SX",
+      "alpha3_code" : "SXM"
+    }, {
+      "name" : "Slovakia",
+      "alpha2_code" : "SK",
+      "alpha3_code" : "SVK"
+    }, {
+      "name" : "Slovenia",
+      "alpha2_code" : "SI",
+      "alpha3_code" : "SVN"
+    }, {
+      "name" : "Solomon Islands",
+      "alpha2_code" : "SB",
+      "alpha3_code" : "SLB"
+    }, {
+      "name" : "Somalia",
+      "alpha2_code" : "SO",
+      "alpha3_code" : "SOM"
+    }, {
+      "name" : "South Africa",
+      "alpha2_code" : "ZA",
+      "alpha3_code" : "ZAF"
+    }, {
+      "name" : "South Georgia and the South Sandwich Islands",
+      "alpha2_code" : "GS",
+      "alpha3_code" : "SGS"
+    }, {
+      "name" : "South Sudan",
+      "alpha2_code" : "SS",
+      "alpha3_code" : "SSD"
+    }, {
+      "name" : "Spain",
+      "alpha2_code" : "ES",
+      "alpha3_code" : "ESP"
+    }, {
+      "name" : "Sri Lanka",
+      "alpha2_code" : "LK",
+      "alpha3_code" : "LKA"
+    }, {
+      "name" : "Sudan",
+      "alpha2_code" : "SD",
+      "alpha3_code" : "SDN"
+    }, {
+      "name" : "Suriname",
+      "alpha2_code" : "SR",
+      "alpha3_code" : "SUR"
+    }, {
+      "name" : "Svalbard and Jan Mayen",
+      "alpha2_code" : "SJ",
+      "alpha3_code" : "SJM"
+    }, {
+      "name" : "Swaziland",
+      "alpha2_code" : "SZ",
+      "alpha3_code" : "SWZ"
+    }, {
+      "name" : "Sweden",
+      "alpha2_code" : "SE",
+      "alpha3_code" : "SWE"
+    }, {
+      "name" : "Switzerland",
+      "alpha2_code" : "CH",
+      "alpha3_code" : "CHE"
+    }, {
+      "name" : "Syrian Arab Republic",
+      "alpha2_code" : "SY",
+      "alpha3_code" : "SYR"
+    }, {
+      "name" : "Taiwan, Province of China",
+      "alpha2_code" : "TW",
+      "alpha3_code" : "TWN"
+    }, {
+      "name" : "Tajikistan",
+      "alpha2_code" : "TJ",
+      "alpha3_code" : "TJK"
+    }, {
+      "name" : "Tanzania, United Republic of",
+      "alpha2_code" : "TZ",
+      "alpha3_code" : "TZA"
+    }, {
+      "name" : "Thailand",
+      "alpha2_code" : "TH",
+      "alpha3_code" : "THA"
+    }, {
+      "name" : "Timor-Leste",
+      "alpha2_code" : "TL",
+      "alpha3_code" : "TLS"
+    }, {
+      "name" : "Togo",
+      "alpha2_code" : "TG",
+      "alpha3_code" : "TGO"
+    }, {
+      "name" : "Tokelau",
+      "alpha2_code" : "TK",
+      "alpha3_code" : "TKL"
+    }, {
+      "name" : "Tonga",
+      "alpha2_code" : "TO",
+      "alpha3_code" : "TON"
+    }, {
+      "name" : "Trinidad and Tobago",
+      "alpha2_code" : "TT",
+      "alpha3_code" : "TTO"
+    }, {
+      "name" : "Tunisia",
+      "alpha2_code" : "TN",
+      "alpha3_code" : "TUN"
+    }, {
+      "name" : "Turkey",
+      "alpha2_code" : "TR",
+      "alpha3_code" : "TUR"
+    }, {
+      "name" : "Turkmenistan",
+      "alpha2_code" : "TM",
+      "alpha3_code" : "TKM"
+    }, {
+      "name" : "Turks and Caicos Islands",
+      "alpha2_code" : "TC",
+      "alpha3_code" : "TCA"
+    }, {
+      "name" : "Tuvalu",
+      "alpha2_code" : "TV",
+      "alpha3_code" : "TUV"
+    }, {
+      "name" : "Uganda",
+      "alpha2_code" : "UG",
+      "alpha3_code" : "UGA"
+    }, {
+      "name" : "Ukraine",
+      "alpha2_code" : "UA",
+      "alpha3_code" : "UKR"
+    }, {
+      "name" : "United Arab Emirates",
+      "alpha2_code" : "AE",
+      "alpha3_code" : "ARE"
+    }, {
+      "name" : "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2_code" : "GB",
+      "alpha3_code" : "GBR"
+    }, {
+      "name" : "United States of America",
+      "alpha2_code" : "US",
+      "alpha3_code" : "USA"
+    }, {
+      "name" : "United States Minor Outlying Islands",
+      "alpha2_code" : "UM",
+      "alpha3_code" : "UMI"
+    }, {
+      "name" : "Uruguay",
+      "alpha2_code" : "UY",
+      "alpha3_code" : "URY"
+    }, {
+      "name" : "Uzbekistan",
+      "alpha2_code" : "UZ",
+      "alpha3_code" : "UZB"
+    }, {
+      "name" : "Vanuatu",
+      "alpha2_code" : "VU",
+      "alpha3_code" : "VUT"
+    }, {
+      "name" : "Venezuela (Bolivarian Republic of)",
+      "alpha2_code" : "VE",
+      "alpha3_code" : "VEN"
+    }, {
+      "name" : "Viet Nam",
+      "alpha2_code" : "VN",
+      "alpha3_code" : "VNM"
+    }, {
+      "name" : "Virgin Islands (British)",
+      "alpha2_code" : "VG",
+      "alpha3_code" : "VGB"
+    }, {
+      "name" : "Virgin Islands (U.S.)",
+      "alpha2_code" : "VI",
+      "alpha3_code" : "VIR"
+    }, {
+      "name" : "Wallis and Futuna",
+      "alpha2_code" : "WF",
+      "alpha3_code" : "WLF"
+    }, {
+      "name" : "Western Sahara",
+      "alpha2_code" : "EH",
+      "alpha3_code" : "ESH"
+    }, {
+      "name" : "Yemen",
+      "alpha2_code" : "YE",
+      "alpha3_code" : "YEM"
+    }, {
+      "name" : "Zambia",
+      "alpha2_code" : "ZM",
+      "alpha3_code" : "ZMB"
+    }, {
+      "name" : "Zimbabwe",
+      "alpha2_code" : "ZW",
+      "alpha3_code" : "ZWE"
+    } ]
+  }
+}
+2017-04-13 01:24:10,511- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:24:10,530- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:24:58,951- api.Request -INFO – Response : {
+  "RestResponse" : {
+    "messages" : [ "More webservices are available at http://www.groupkt.com/post/f2129b88/services.htm", "Total [249] records found." ],
+    "result" : [ {
+      "name" : "Afghanistan",
+      "alpha2_code" : "AF",
+      "alpha3_code" : "AFG"
+    }, {
+      "name" : "Åland Islands",
+      "alpha2_code" : "AX",
+      "alpha3_code" : "ALA"
+    }, {
+      "name" : "Albania",
+      "alpha2_code" : "AL",
+      "alpha3_code" : "ALB"
+    }, {
+      "name" : "Algeria",
+      "alpha2_code" : "DZ",
+      "alpha3_code" : "DZA"
+    }, {
+      "name" : "American Samoa",
+      "alpha2_code" : "AS",
+      "alpha3_code" : "ASM"
+    }, {
+      "name" : "Andorra",
+      "alpha2_code" : "AD",
+      "alpha3_code" : "AND"
+    }, {
+      "name" : "Angola",
+      "alpha2_code" : "AO",
+      "alpha3_code" : "AGO"
+    }, {
+      "name" : "Anguilla",
+      "alpha2_code" : "AI",
+      "alpha3_code" : "AIA"
+    }, {
+      "name" : "Antarctica",
+      "alpha2_code" : "AQ",
+      "alpha3_code" : "ATA"
+    }, {
+      "name" : "Antigua and Barbuda",
+      "alpha2_code" : "AG",
+      "alpha3_code" : "ATG"
+    }, {
+      "name" : "Argentina",
+      "alpha2_code" : "AR",
+      "alpha3_code" : "ARG"
+    }, {
+      "name" : "Armenia",
+      "alpha2_code" : "AM",
+      "alpha3_code" : "ARM"
+    }, {
+      "name" : "Aruba",
+      "alpha2_code" : "AW",
+      "alpha3_code" : "ABW"
+    }, {
+      "name" : "Australia",
+      "alpha2_code" : "AU",
+      "alpha3_code" : "AUS"
+    }, {
+      "name" : "Austria",
+      "alpha2_code" : "AT",
+      "alpha3_code" : "AUT"
+    }, {
+      "name" : "Azerbaijan",
+      "alpha2_code" : "AZ",
+      "alpha3_code" : "AZE"
+    }, {
+      "name" : "Bahamas",
+      "alpha2_code" : "BS",
+      "alpha3_code" : "BHS"
+    }, {
+      "name" : "Bahrain",
+      "alpha2_code" : "BH",
+      "alpha3_code" : "BHR"
+    }, {
+      "name" : "Bangladesh",
+      "alpha2_code" : "BD",
+      "alpha3_code" : "BGD"
+    }, {
+      "name" : "Barbados",
+      "alpha2_code" : "BB",
+      "alpha3_code" : "BRB"
+    }, {
+      "name" : "Belarus",
+      "alpha2_code" : "BY",
+      "alpha3_code" : "BLR"
+    }, {
+      "name" : "Belgium",
+      "alpha2_code" : "BE",
+      "alpha3_code" : "BEL"
+    }, {
+      "name" : "Belize",
+      "alpha2_code" : "BZ",
+      "alpha3_code" : "BLZ"
+    }, {
+      "name" : "Benin",
+      "alpha2_code" : "BJ",
+      "alpha3_code" : "BEN"
+    }, {
+      "name" : "Bermuda",
+      "alpha2_code" : "BM",
+      "alpha3_code" : "BMU"
+    }, {
+      "name" : "Bhutan",
+      "alpha2_code" : "BT",
+      "alpha3_code" : "BTN"
+    }, {
+      "name" : "Bolivia (Plurinational State of)",
+      "alpha2_code" : "BO",
+      "alpha3_code" : "BOL"
+    }, {
+      "name" : "Bonaire, Sint Eustatius and Saba",
+      "alpha2_code" : "BQ",
+      "alpha3_code" : "BES"
+    }, {
+      "name" : "Bosnia and Herzegovina",
+      "alpha2_code" : "BA",
+      "alpha3_code" : "BIH"
+    }, {
+      "name" : "Botswana",
+      "alpha2_code" : "BW",
+      "alpha3_code" : "BWA"
+    }, {
+      "name" : "Bouvet Island",
+      "alpha2_code" : "BV",
+      "alpha3_code" : "BVT"
+    }, {
+      "name" : "Brazil",
+      "alpha2_code" : "BR",
+      "alpha3_code" : "BRA"
+    }, {
+      "name" : "British Indian Ocean Territory",
+      "alpha2_code" : "IO",
+      "alpha3_code" : "IOT"
+    }, {
+      "name" : "Brunei Darussalam",
+      "alpha2_code" : "BN",
+      "alpha3_code" : "BRN"
+    }, {
+      "name" : "Bulgaria",
+      "alpha2_code" : "BG",
+      "alpha3_code" : "BGR"
+    }, {
+      "name" : "Burkina Faso",
+      "alpha2_code" : "BF",
+      "alpha3_code" : "BFA"
+    }, {
+      "name" : "Burundi",
+      "alpha2_code" : "BI",
+      "alpha3_code" : "BDI"
+    }, {
+      "name" : "Cambodia",
+      "alpha2_code" : "KH",
+      "alpha3_code" : "KHM"
+    }, {
+      "name" : "Cameroon",
+      "alpha2_code" : "CM",
+      "alpha3_code" : "CMR"
+    }, {
+      "name" : "Canada",
+      "alpha2_code" : "CA",
+      "alpha3_code" : "CAN"
+    }, {
+      "name" : "Cabo Verde",
+      "alpha2_code" : "CV",
+      "alpha3_code" : "CPV"
+    }, {
+      "name" : "Cayman Islands",
+      "alpha2_code" : "KY",
+      "alpha3_code" : "CYM"
+    }, {
+      "name" : "Central African Republic",
+      "alpha2_code" : "CF",
+      "alpha3_code" : "CAF"
+    }, {
+      "name" : "Chad",
+      "alpha2_code" : "TD",
+      "alpha3_code" : "TCD"
+    }, {
+      "name" : "Chile",
+      "alpha2_code" : "CL",
+      "alpha3_code" : "CHL"
+    }, {
+      "name" : "China",
+      "alpha2_code" : "CN",
+      "alpha3_code" : "CHN"
+    }, {
+      "name" : "Christmas Island",
+      "alpha2_code" : "CX",
+      "alpha3_code" : "CXR"
+    }, {
+      "name" : "Cocos (Keeling) Islands",
+      "alpha2_code" : "CC",
+      "alpha3_code" : "CCK"
+    }, {
+      "name" : "Colombia",
+      "alpha2_code" : "CO",
+      "alpha3_code" : "COL"
+    }, {
+      "name" : "Comoros",
+      "alpha2_code" : "KM",
+      "alpha3_code" : "COM"
+    }, {
+      "name" : "Congo",
+      "alpha2_code" : "CG",
+      "alpha3_code" : "COG"
+    }, {
+      "name" : "Congo (Democratic Republic of the)",
+      "alpha2_code" : "CD",
+      "alpha3_code" : "COD"
+    }, {
+      "name" : "Cook Islands",
+      "alpha2_code" : "CK",
+      "alpha3_code" : "COK"
+    }, {
+      "name" : "Costa Rica",
+      "alpha2_code" : "CR",
+      "alpha3_code" : "CRI"
+    }, {
+      "name" : "Côte d'Ivoire",
+      "alpha2_code" : "CI",
+      "alpha3_code" : "CIV"
+    }, {
+      "name" : "Croatia",
+      "alpha2_code" : "HR",
+      "alpha3_code" : "HRV"
+    }, {
+      "name" : "Cuba",
+      "alpha2_code" : "CU",
+      "alpha3_code" : "CUB"
+    }, {
+      "name" : "Curaçao",
+      "alpha2_code" : "CW",
+      "alpha3_code" : "CUW"
+    }, {
+      "name" : "Cyprus",
+      "alpha2_code" : "CY",
+      "alpha3_code" : "CYP"
+    }, {
+      "name" : "Czech Republic",
+      "alpha2_code" : "CZ",
+      "alpha3_code" : "CZE"
+    }, {
+      "name" : "Denmark",
+      "alpha2_code" : "DK",
+      "alpha3_code" : "DNK"
+    }, {
+      "name" : "Djibouti",
+      "alpha2_code" : "DJ",
+      "alpha3_code" : "DJI"
+    }, {
+      "name" : "Dominica",
+      "alpha2_code" : "DM",
+      "alpha3_code" : "DMA"
+    }, {
+      "name" : "Dominican Republic",
+      "alpha2_code" : "DO",
+      "alpha3_code" : "DOM"
+    }, {
+      "name" : "Ecuador",
+      "alpha2_code" : "EC",
+      "alpha3_code" : "ECU"
+    }, {
+      "name" : "Egypt",
+      "alpha2_code" : "EG",
+      "alpha3_code" : "EGY"
+    }, {
+      "name" : "El Salvador",
+      "alpha2_code" : "SV",
+      "alpha3_code" : "SLV"
+    }, {
+      "name" : "Equatorial Guinea",
+      "alpha2_code" : "GQ",
+      "alpha3_code" : "GNQ"
+    }, {
+      "name" : "Eritrea",
+      "alpha2_code" : "ER",
+      "alpha3_code" : "ERI"
+    }, {
+      "name" : "Estonia",
+      "alpha2_code" : "EE",
+      "alpha3_code" : "EST"
+    }, {
+      "name" : "Ethiopia",
+      "alpha2_code" : "ET",
+      "alpha3_code" : "ETH"
+    }, {
+      "name" : "Falkland Islands (Malvinas)",
+      "alpha2_code" : "FK",
+      "alpha3_code" : "FLK"
+    }, {
+      "name" : "Faroe Islands",
+      "alpha2_code" : "FO",
+      "alpha3_code" : "FRO"
+    }, {
+      "name" : "Fiji",
+      "alpha2_code" : "FJ",
+      "alpha3_code" : "FJI"
+    }, {
+      "name" : "Finland",
+      "alpha2_code" : "FI",
+      "alpha3_code" : "FIN"
+    }, {
+      "name" : "France",
+      "alpha2_code" : "FR",
+      "alpha3_code" : "FRA"
+    }, {
+      "name" : "French Guiana",
+      "alpha2_code" : "GF",
+      "alpha3_code" : "GUF"
+    }, {
+      "name" : "French Polynesia",
+      "alpha2_code" : "PF",
+      "alpha3_code" : "PYF"
+    }, {
+      "name" : "French Southern Territories",
+      "alpha2_code" : "TF",
+      "alpha3_code" : "ATF"
+    }, {
+      "name" : "Gabon",
+      "alpha2_code" : "GA",
+      "alpha3_code" : "GAB"
+    }, {
+      "name" : "Gambia",
+      "alpha2_code" : "GM",
+      "alpha3_code" : "GMB"
+    }, {
+      "name" : "Georgia",
+      "alpha2_code" : "GE",
+      "alpha3_code" : "GEO"
+    }, {
+      "name" : "Germany",
+      "alpha2_code" : "DE",
+      "alpha3_code" : "DEU"
+    }, {
+      "name" : "Ghana",
+      "alpha2_code" : "GH",
+      "alpha3_code" : "GHA"
+    }, {
+      "name" : "Gibraltar",
+      "alpha2_code" : "GI",
+      "alpha3_code" : "GIB"
+    }, {
+      "name" : "Greece",
+      "alpha2_code" : "GR",
+      "alpha3_code" : "GRC"
+    }, {
+      "name" : "Greenland",
+      "alpha2_code" : "GL",
+      "alpha3_code" : "GRL"
+    }, {
+      "name" : "Grenada",
+      "alpha2_code" : "GD",
+      "alpha3_code" : "GRD"
+    }, {
+      "name" : "Guadeloupe",
+      "alpha2_code" : "GP",
+      "alpha3_code" : "GLP"
+    }, {
+      "name" : "Guam",
+      "alpha2_code" : "GU",
+      "alpha3_code" : "GUM"
+    }, {
+      "name" : "Guatemala",
+      "alpha2_code" : "GT",
+      "alpha3_code" : "GTM"
+    }, {
+      "name" : "Guernsey",
+      "alpha2_code" : "GG",
+      "alpha3_code" : "GGY"
+    }, {
+      "name" : "Guinea",
+      "alpha2_code" : "GN",
+      "alpha3_code" : "GIN"
+    }, {
+      "name" : "Guinea-Bissau",
+      "alpha2_code" : "GW",
+      "alpha3_code" : "GNB"
+    }, {
+      "name" : "Guyana",
+      "alpha2_code" : "GY",
+      "alpha3_code" : "GUY"
+    }, {
+      "name" : "Haiti",
+      "alpha2_code" : "HT",
+      "alpha3_code" : "HTI"
+    }, {
+      "name" : "Heard Island and McDonald Islands",
+      "alpha2_code" : "HM",
+      "alpha3_code" : "HMD"
+    }, {
+      "name" : "Holy See",
+      "alpha2_code" : "VA",
+      "alpha3_code" : "VAT"
+    }, {
+      "name" : "Honduras",
+      "alpha2_code" : "HN",
+      "alpha3_code" : "HND"
+    }, {
+      "name" : "Hong Kong",
+      "alpha2_code" : "HK",
+      "alpha3_code" : "HKG"
+    }, {
+      "name" : "Hungary",
+      "alpha2_code" : "HU",
+      "alpha3_code" : "HUN"
+    }, {
+      "name" : "Iceland",
+      "alpha2_code" : "IS",
+      "alpha3_code" : "ISL"
+    }, {
+      "name" : "India",
+      "alpha2_code" : "IN",
+      "alpha3_code" : "IND"
+    }, {
+      "name" : "Indonesia",
+      "alpha2_code" : "ID",
+      "alpha3_code" : "IDN"
+    }, {
+      "name" : "Iran (Islamic Republic of)",
+      "alpha2_code" : "IR",
+      "alpha3_code" : "IRN"
+    }, {
+      "name" : "Iraq",
+      "alpha2_code" : "IQ",
+      "alpha3_code" : "IRQ"
+    }, {
+      "name" : "Ireland",
+      "alpha2_code" : "IE",
+      "alpha3_code" : "IRL"
+    }, {
+      "name" : "Isle of Man",
+      "alpha2_code" : "IM",
+      "alpha3_code" : "IMN"
+    }, {
+      "name" : "Israel",
+      "alpha2_code" : "IL",
+      "alpha3_code" : "ISR"
+    }, {
+      "name" : "Italy",
+      "alpha2_code" : "IT",
+      "alpha3_code" : "ITA"
+    }, {
+      "name" : "Jamaica",
+      "alpha2_code" : "JM",
+      "alpha3_code" : "JAM"
+    }, {
+      "name" : "Japan",
+      "alpha2_code" : "JP",
+      "alpha3_code" : "JPN"
+    }, {
+      "name" : "Jersey",
+      "alpha2_code" : "JE",
+      "alpha3_code" : "JEY"
+    }, {
+      "name" : "Jordan",
+      "alpha2_code" : "JO",
+      "alpha3_code" : "JOR"
+    }, {
+      "name" : "Kazakhstan",
+      "alpha2_code" : "KZ",
+      "alpha3_code" : "KAZ"
+    }, {
+      "name" : "Kenya",
+      "alpha2_code" : "KE",
+      "alpha3_code" : "KEN"
+    }, {
+      "name" : "Kiribati",
+      "alpha2_code" : "KI",
+      "alpha3_code" : "KIR"
+    }, {
+      "name" : "Korea (Democratic People's Republic of)",
+      "alpha2_code" : "KP",
+      "alpha3_code" : "PRK"
+    }, {
+      "name" : "Korea (Republic of)",
+      "alpha2_code" : "KR",
+      "alpha3_code" : "KOR"
+    }, {
+      "name" : "Kuwait",
+      "alpha2_code" : "KW",
+      "alpha3_code" : "KWT"
+    }, {
+      "name" : "Kyrgyzstan",
+      "alpha2_code" : "KG",
+      "alpha3_code" : "KGZ"
+    }, {
+      "name" : "Lao People's Democratic Republic",
+      "alpha2_code" : "LA",
+      "alpha3_code" : "LAO"
+    }, {
+      "name" : "Latvia",
+      "alpha2_code" : "LV",
+      "alpha3_code" : "LVA"
+    }, {
+      "name" : "Lebanon",
+      "alpha2_code" : "LB",
+      "alpha3_code" : "LBN"
+    }, {
+      "name" : "Lesotho",
+      "alpha2_code" : "LS",
+      "alpha3_code" : "LSO"
+    }, {
+      "name" : "Liberia",
+      "alpha2_code" : "LR",
+      "alpha3_code" : "LBR"
+    }, {
+      "name" : "Libya",
+      "alpha2_code" : "LY",
+      "alpha3_code" : "LBY"
+    }, {
+      "name" : "Liechtenstein",
+      "alpha2_code" : "LI",
+      "alpha3_code" : "LIE"
+    }, {
+      "name" : "Lithuania",
+      "alpha2_code" : "LT",
+      "alpha3_code" : "LTU"
+    }, {
+      "name" : "Luxembourg",
+      "alpha2_code" : "LU",
+      "alpha3_code" : "LUX"
+    }, {
+      "name" : "Macao",
+      "alpha2_code" : "MO",
+      "alpha3_code" : "MAC"
+    }, {
+      "name" : "Macedonia (the former Yugoslav Republic of)",
+      "alpha2_code" : "MK",
+      "alpha3_code" : "MKD"
+    }, {
+      "name" : "Madagascar",
+      "alpha2_code" : "MG",
+      "alpha3_code" : "MDG"
+    }, {
+      "name" : "Malawi",
+      "alpha2_code" : "MW",
+      "alpha3_code" : "MWI"
+    }, {
+      "name" : "Malaysia",
+      "alpha2_code" : "MY",
+      "alpha3_code" : "MYS"
+    }, {
+      "name" : "Maldives",
+      "alpha2_code" : "MV",
+      "alpha3_code" : "MDV"
+    }, {
+      "name" : "Mali",
+      "alpha2_code" : "ML",
+      "alpha3_code" : "MLI"
+    }, {
+      "name" : "Malta",
+      "alpha2_code" : "MT",
+      "alpha3_code" : "MLT"
+    }, {
+      "name" : "Marshall Islands",
+      "alpha2_code" : "MH",
+      "alpha3_code" : "MHL"
+    }, {
+      "name" : "Martinique",
+      "alpha2_code" : "MQ",
+      "alpha3_code" : "MTQ"
+    }, {
+      "name" : "Mauritania",
+      "alpha2_code" : "MR",
+      "alpha3_code" : "MRT"
+    }, {
+      "name" : "Mauritius",
+      "alpha2_code" : "MU",
+      "alpha3_code" : "MUS"
+    }, {
+      "name" : "Mayotte",
+      "alpha2_code" : "YT",
+      "alpha3_code" : "MYT"
+    }, {
+      "name" : "Mexico",
+      "alpha2_code" : "MX",
+      "alpha3_code" : "MEX"
+    }, {
+      "name" : "Micronesia (Federated States of)",
+      "alpha2_code" : "FM",
+      "alpha3_code" : "FSM"
+    }, {
+      "name" : "Moldova (Republic of)",
+      "alpha2_code" : "MD",
+      "alpha3_code" : "MDA"
+    }, {
+      "name" : "Monaco",
+      "alpha2_code" : "MC",
+      "alpha3_code" : "MCO"
+    }, {
+      "name" : "Mongolia",
+      "alpha2_code" : "MN",
+      "alpha3_code" : "MNG"
+    }, {
+      "name" : "Montenegro",
+      "alpha2_code" : "ME",
+      "alpha3_code" : "MNE"
+    }, {
+      "name" : "Montserrat",
+      "alpha2_code" : "MS",
+      "alpha3_code" : "MSR"
+    }, {
+      "name" : "Morocco",
+      "alpha2_code" : "MA",
+      "alpha3_code" : "MAR"
+    }, {
+      "name" : "Mozambique",
+      "alpha2_code" : "MZ",
+      "alpha3_code" : "MOZ"
+    }, {
+      "name" : "Myanmar",
+      "alpha2_code" : "MM",
+      "alpha3_code" : "MMR"
+    }, {
+      "name" : "Namibia",
+      "alpha2_code" : "NA",
+      "alpha3_code" : "NAM"
+    }, {
+      "name" : "Nauru",
+      "alpha2_code" : "NR",
+      "alpha3_code" : "NRU"
+    }, {
+      "name" : "Nepal",
+      "alpha2_code" : "NP",
+      "alpha3_code" : "NPL"
+    }, {
+      "name" : "Netherlands",
+      "alpha2_code" : "NL",
+      "alpha3_code" : "NLD"
+    }, {
+      "name" : "New Caledonia",
+      "alpha2_code" : "NC",
+      "alpha3_code" : "NCL"
+    }, {
+      "name" : "New Zealand",
+      "alpha2_code" : "NZ",
+      "alpha3_code" : "NZL"
+    }, {
+      "name" : "Nicaragua",
+      "alpha2_code" : "NI",
+      "alpha3_code" : "NIC"
+    }, {
+      "name" : "Niger",
+      "alpha2_code" : "NE",
+      "alpha3_code" : "NER"
+    }, {
+      "name" : "Nigeria",
+      "alpha2_code" : "NG",
+      "alpha3_code" : "NGA"
+    }, {
+      "name" : "Niue",
+      "alpha2_code" : "NU",
+      "alpha3_code" : "NIU"
+    }, {
+      "name" : "Norfolk Island",
+      "alpha2_code" : "NF",
+      "alpha3_code" : "NFK"
+    }, {
+      "name" : "Northern Mariana Islands",
+      "alpha2_code" : "MP",
+      "alpha3_code" : "MNP"
+    }, {
+      "name" : "Norway",
+      "alpha2_code" : "NO",
+      "alpha3_code" : "NOR"
+    }, {
+      "name" : "Oman",
+      "alpha2_code" : "OM",
+      "alpha3_code" : "OMN"
+    }, {
+      "name" : "Pakistan",
+      "alpha2_code" : "PK",
+      "alpha3_code" : "PAK"
+    }, {
+      "name" : "Palau",
+      "alpha2_code" : "PW",
+      "alpha3_code" : "PLW"
+    }, {
+      "name" : "Palestine, State of",
+      "alpha2_code" : "PS",
+      "alpha3_code" : "PSE"
+    }, {
+      "name" : "Panama",
+      "alpha2_code" : "PA",
+      "alpha3_code" : "PAN"
+    }, {
+      "name" : "Papua New Guinea",
+      "alpha2_code" : "PG",
+      "alpha3_code" : "PNG"
+    }, {
+      "name" : "Paraguay",
+      "alpha2_code" : "PY",
+      "alpha3_code" : "PRY"
+    }, {
+      "name" : "Peru",
+      "alpha2_code" : "PE",
+      "alpha3_code" : "PER"
+    }, {
+      "name" : "Philippines",
+      "alpha2_code" : "PH",
+      "alpha3_code" : "PHL"
+    }, {
+      "name" : "Pitcairn",
+      "alpha2_code" : "PN",
+      "alpha3_code" : "PCN"
+    }, {
+      "name" : "Poland",
+      "alpha2_code" : "PL",
+      "alpha3_code" : "POL"
+    }, {
+      "name" : "Portugal",
+      "alpha2_code" : "PT",
+      "alpha3_code" : "PRT"
+    }, {
+      "name" : "Puerto Rico",
+      "alpha2_code" : "PR",
+      "alpha3_code" : "PRI"
+    }, {
+      "name" : "Qatar",
+      "alpha2_code" : "QA",
+      "alpha3_code" : "QAT"
+    }, {
+      "name" : "Réunion",
+      "alpha2_code" : "RE",
+      "alpha3_code" : "REU"
+    }, {
+      "name" : "Romania",
+      "alpha2_code" : "RO",
+      "alpha3_code" : "ROU"
+    }, {
+      "name" : "Russian Federation",
+      "alpha2_code" : "RU",
+      "alpha3_code" : "RUS"
+    }, {
+      "name" : "Rwanda",
+      "alpha2_code" : "RW",
+      "alpha3_code" : "RWA"
+    }, {
+      "name" : "Saint Barthélemy",
+      "alpha2_code" : "BL",
+      "alpha3_code" : "BLM"
+    }, {
+      "name" : "Saint Helena, Ascension and Tristan da Cunha",
+      "alpha2_code" : "SH",
+      "alpha3_code" : "SHN"
+    }, {
+      "name" : "Saint Kitts and Nevis",
+      "alpha2_code" : "KN",
+      "alpha3_code" : "KNA"
+    }, {
+      "name" : "Saint Lucia",
+      "alpha2_code" : "LC",
+      "alpha3_code" : "LCA"
+    }, {
+      "name" : "Saint Martin (French part)",
+      "alpha2_code" : "MF",
+      "alpha3_code" : "MAF"
+    }, {
+      "name" : "Saint Pierre and Miquelon",
+      "alpha2_code" : "PM",
+      "alpha3_code" : "SPM"
+    }, {
+      "name" : "Saint Vincent and the Grenadines",
+      "alpha2_code" : "VC",
+      "alpha3_code" : "VCT"
+    }, {
+      "name" : "Samoa",
+      "alpha2_code" : "WS",
+      "alpha3_code" : "WSM"
+    }, {
+      "name" : "San Marino",
+      "alpha2_code" : "SM",
+      "alpha3_code" : "SMR"
+    }, {
+      "name" : "Sao Tome and Principe",
+      "alpha2_code" : "ST",
+      "alpha3_code" : "STP"
+    }, {
+      "name" : "Saudi Arabia",
+      "alpha2_code" : "SA",
+      "alpha3_code" : "SAU"
+    }, {
+      "name" : "Senegal",
+      "alpha2_code" : "SN",
+      "alpha3_code" : "SEN"
+    }, {
+      "name" : "Serbia",
+      "alpha2_code" : "RS",
+      "alpha3_code" : "SRB"
+    }, {
+      "name" : "Seychelles",
+      "alpha2_code" : "SC",
+      "alpha3_code" : "SYC"
+    }, {
+      "name" : "Sierra Leone",
+      "alpha2_code" : "SL",
+      "alpha3_code" : "SLE"
+    }, {
+      "name" : "Singapore",
+      "alpha2_code" : "SG",
+      "alpha3_code" : "SGP"
+    }, {
+      "name" : "Sint Maarten (Dutch part)",
+      "alpha2_code" : "SX",
+      "alpha3_code" : "SXM"
+    }, {
+      "name" : "Slovakia",
+      "alpha2_code" : "SK",
+      "alpha3_code" : "SVK"
+    }, {
+      "name" : "Slovenia",
+      "alpha2_code" : "SI",
+      "alpha3_code" : "SVN"
+    }, {
+      "name" : "Solomon Islands",
+      "alpha2_code" : "SB",
+      "alpha3_code" : "SLB"
+    }, {
+      "name" : "Somalia",
+      "alpha2_code" : "SO",
+      "alpha3_code" : "SOM"
+    }, {
+      "name" : "South Africa",
+      "alpha2_code" : "ZA",
+      "alpha3_code" : "ZAF"
+    }, {
+      "name" : "South Georgia and the South Sandwich Islands",
+      "alpha2_code" : "GS",
+      "alpha3_code" : "SGS"
+    }, {
+      "name" : "South Sudan",
+      "alpha2_code" : "SS",
+      "alpha3_code" : "SSD"
+    }, {
+      "name" : "Spain",
+      "alpha2_code" : "ES",
+      "alpha3_code" : "ESP"
+    }, {
+      "name" : "Sri Lanka",
+      "alpha2_code" : "LK",
+      "alpha3_code" : "LKA"
+    }, {
+      "name" : "Sudan",
+      "alpha2_code" : "SD",
+      "alpha3_code" : "SDN"
+    }, {
+      "name" : "Suriname",
+      "alpha2_code" : "SR",
+      "alpha3_code" : "SUR"
+    }, {
+      "name" : "Svalbard and Jan Mayen",
+      "alpha2_code" : "SJ",
+      "alpha3_code" : "SJM"
+    }, {
+      "name" : "Swaziland",
+      "alpha2_code" : "SZ",
+      "alpha3_code" : "SWZ"
+    }, {
+      "name" : "Sweden",
+      "alpha2_code" : "SE",
+      "alpha3_code" : "SWE"
+    }, {
+      "name" : "Switzerland",
+      "alpha2_code" : "CH",
+      "alpha3_code" : "CHE"
+    }, {
+      "name" : "Syrian Arab Republic",
+      "alpha2_code" : "SY",
+      "alpha3_code" : "SYR"
+    }, {
+      "name" : "Taiwan, Province of China",
+      "alpha2_code" : "TW",
+      "alpha3_code" : "TWN"
+    }, {
+      "name" : "Tajikistan",
+      "alpha2_code" : "TJ",
+      "alpha3_code" : "TJK"
+    }, {
+      "name" : "Tanzania, United Republic of",
+      "alpha2_code" : "TZ",
+      "alpha3_code" : "TZA"
+    }, {
+      "name" : "Thailand",
+      "alpha2_code" : "TH",
+      "alpha3_code" : "THA"
+    }, {
+      "name" : "Timor-Leste",
+      "alpha2_code" : "TL",
+      "alpha3_code" : "TLS"
+    }, {
+      "name" : "Togo",
+      "alpha2_code" : "TG",
+      "alpha3_code" : "TGO"
+    }, {
+      "name" : "Tokelau",
+      "alpha2_code" : "TK",
+      "alpha3_code" : "TKL"
+    }, {
+      "name" : "Tonga",
+      "alpha2_code" : "TO",
+      "alpha3_code" : "TON"
+    }, {
+      "name" : "Trinidad and Tobago",
+      "alpha2_code" : "TT",
+      "alpha3_code" : "TTO"
+    }, {
+      "name" : "Tunisia",
+      "alpha2_code" : "TN",
+      "alpha3_code" : "TUN"
+    }, {
+      "name" : "Turkey",
+      "alpha2_code" : "TR",
+      "alpha3_code" : "TUR"
+    }, {
+      "name" : "Turkmenistan",
+      "alpha2_code" : "TM",
+      "alpha3_code" : "TKM"
+    }, {
+      "name" : "Turks and Caicos Islands",
+      "alpha2_code" : "TC",
+      "alpha3_code" : "TCA"
+    }, {
+      "name" : "Tuvalu",
+      "alpha2_code" : "TV",
+      "alpha3_code" : "TUV"
+    }, {
+      "name" : "Uganda",
+      "alpha2_code" : "UG",
+      "alpha3_code" : "UGA"
+    }, {
+      "name" : "Ukraine",
+      "alpha2_code" : "UA",
+      "alpha3_code" : "UKR"
+    }, {
+      "name" : "United Arab Emirates",
+      "alpha2_code" : "AE",
+      "alpha3_code" : "ARE"
+    }, {
+      "name" : "United Kingdom of Great Britain and Northern Ireland",
+      "alpha2_code" : "GB",
+      "alpha3_code" : "GBR"
+    }, {
+      "name" : "United States of America",
+      "alpha2_code" : "US",
+      "alpha3_code" : "USA"
+    }, {
+      "name" : "United States Minor Outlying Islands",
+      "alpha2_code" : "UM",
+      "alpha3_code" : "UMI"
+    }, {
+      "name" : "Uruguay",
+      "alpha2_code" : "UY",
+      "alpha3_code" : "URY"
+    }, {
+      "name" : "Uzbekistan",
+      "alpha2_code" : "UZ",
+      "alpha3_code" : "UZB"
+    }, {
+      "name" : "Vanuatu",
+      "alpha2_code" : "VU",
+      "alpha3_code" : "VUT"
+    }, {
+      "name" : "Venezuela (Bolivarian Republic of)",
+      "alpha2_code" : "VE",
+      "alpha3_code" : "VEN"
+    }, {
+      "name" : "Viet Nam",
+      "alpha2_code" : "VN",
+      "alpha3_code" : "VNM"
+    }, {
+      "name" : "Virgin Islands (British)",
+      "alpha2_code" : "VG",
+      "alpha3_code" : "VGB"
+    }, {
+      "name" : "Virgin Islands (U.S.)",
+      "alpha2_code" : "VI",
+      "alpha3_code" : "VIR"
+    }, {
+      "name" : "Wallis and Futuna",
+      "alpha2_code" : "WF",
+      "alpha3_code" : "WLF"
+    }, {
+      "name" : "Western Sahara",
+      "alpha2_code" : "EH",
+      "alpha3_code" : "ESH"
+    }, {
+      "name" : "Yemen",
+      "alpha2_code" : "YE",
+      "alpha3_code" : "YEM"
+    }, {
+      "name" : "Zambia",
+      "alpha2_code" : "ZM",
+      "alpha3_code" : "ZMB"
+    }, {
+      "name" : "Zimbabwe",
+      "alpha2_code" : "ZW",
+      "alpha3_code" : "ZWE"
+    } ]
+  }
+}
+2017-04-13 01:24:59,038- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:24:59,038- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:27:20,616- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 01:27:20,661- api.Request -ERROR – Something went wrong !!! Please check the stack trace for more details: 
+2017-04-13 01:27:20,665- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:29:42,016- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@27d5a580
+2017-04-13 01:29:43,479- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:29:43,480- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:30:49,104- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 01:30:50,146- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:30:50,146- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:34:17,301- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 01:34:17,507- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:34:17,508- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:36:03,776- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 01:36:03,901- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:36:03,902- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:37:11,732- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 01:37:11,844- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:37:11,845- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 01:40:55,957- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5117dd67
+2017-04-13 01:40:55,990- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 01:40:55,991- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 14:53:47,166- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5117dd67
+2017-04-13 14:53:48,613- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 14:53:48,614- api.country.request.RequestPopulator -INFO – Child Loan Response: RestResponse [messages=null, result=null]
+2017-04-13 21:00:49,527- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5117dd67
+2017-04-13 21:00:49,681- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:00:49,681- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.RootObject@14bee915
+2017-04-13 21:01:35,475- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5117dd67
+2017-04-13 21:01:35,630- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:01:35,631- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.RootObject@14bee915
+2017-04-13 21:25:58,802- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:25:59,830- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:25:59,831- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:30:23,028- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:30:23,146- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:30:23,148- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:33:14,165- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:33:15,378- api.Request -ERROR – Something went wrong !!! Please check the stack trace for more details: 
+2017-04-13 21:33:15,400- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.RootObject@14bee915
+2017-04-13 21:36:38,836- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:36:40,383- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:36:40,384- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:38:11,599- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:38:12,777- api.Request -ERROR – Something went wrong !!! Please check the stack trace for more details: 
+2017-04-13 21:38:12,794- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.RootObject@14bee915
+2017-04-13 21:39:25,938- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:39:27,082- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:39:27,083- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.RootObject1@41ab013
+2017-04-13 21:39:54,717- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:39:54,968- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:39:54,968- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.RootObject1@41ab013
+2017-04-13 21:40:18,778- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:40:19,901- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:40:19,902- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.RootObject1@41ab013
+2017-04-13 21:43:32,883- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:43:33,835- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:43:33,835- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:44:48,794- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:44:50,211- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:44:50,211- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:45:32,962- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:45:33,095- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:45:33,096- api.country.request.RequestPopulator -INFO – Child Loan Response: CountryResponse [restResponse=null]
+2017-04-13 21:47:44,198- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:47:45,426- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:47:45,427- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@41ab013
+2017-04-13 21:49:06,697- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@198d6542
+2017-04-13 21:49:07,820- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 21:49:07,820- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@41ab013
+2017-04-13 21:59:05,786- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@340da44c
+2017-04-13 21:59:05,994- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 21:59:05,996- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.specific.response.SpecificCountry@3a0d172f
+2017-04-13 22:15:42,857- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@a43ce46
+2017-04-13 22:15:43,016- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:15:43,016- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.response.CountryResponse@3a0d172f
+2017-04-13 22:15:43,502- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5b529706
+2017-04-13 22:15:44,669- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:15:44,670- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.response.CountryResponse@63fdab07
+2017-04-13 22:15:45,167- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@1506f20f
+2017-04-13 22:15:45,402- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:15:45,405- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.response.CountryResponse@47a5b70d
+2017-04-13 22:17:48,056- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@424ebba3
+2017-04-13 22:17:48,244- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:17:48,246- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.specific.response.SpecificCountry@68ad99fe
+2017-04-13 22:17:48,785- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@2371aaca
+2017-04-13 22:17:48,996- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:17:48,999- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.specific.response.SpecificCountry@5b529706
+2017-04-13 22:17:49,536- api.Request -INFO � Response : com.jayway.restassured.internal.RestAssuredResponseImpl@54d18072
+2017-04-13 22:17:49,736- api.Request -INFO � Request recieved and api has been hit, now returning the response
+2017-04-13 22:17:49,739- api.country.request.RequestPopulator -INFO � Child Loan Response: api.country.specific.response.SpecificCountry@1506f20f
+2017-04-13 22:43:50,218- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-13 22:43:50,221- utilities.ExecutableFunctionalities -INFO – Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-13 22:45:47,851- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@37052337
+2017-04-13 22:45:47,878- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:47,878- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@781f10f2
+2017-04-13 22:45:48,862- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5553d0f5
+2017-04-13 22:45:48,878- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:48,878- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@1af687fe
+2017-04-13 22:45:49,688- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@1a45193b
+2017-04-13 22:45:49,692- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:49,692- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@38f116f6
+2017-04-13 22:45:50,917- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@47a86fbb
+2017-04-13 22:45:50,920- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:50,920- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@4c4748bf
+2017-04-13 22:45:51,669- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5a85c92
+2017-04-13 22:45:51,672- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:51,673- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@32811494
+2017-04-13 22:45:52,354- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@784b990c
+2017-04-13 22:45:52,355- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 22:45:52,356- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@1951b871
+2017-04-13 23:00:06,670- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@77a7cf58
+2017-04-13 23:00:06,854- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:06,854- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@736d6a5c
+2017-04-13 23:00:07,630- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5a411614
+2017-04-13 23:00:07,758- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:07,759- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@2374d36a
+2017-04-13 23:00:08,509- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@6c25e6c4
+2017-04-13 23:00:08,534- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:08,535- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@85e6769
+2017-04-13 23:00:09,273- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@4c4748bf
+2017-04-13 23:00:09,318- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:09,319- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@32811494
+2017-04-13 23:00:10,090- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@2eced48b
+2017-04-13 23:00:10,102- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:10,102- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@47c4ecdc
+2017-04-13 23:00:10,797- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@1951b871
+2017-04-13 23:00:10,798- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:00:10,799- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@4ba302e0
+2017-04-13 23:03:55,332- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@37052337
+2017-04-13 23:03:55,357- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:03:55,357- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@781f10f2
+2017-04-13 23:03:56,069- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5a411614
+2017-04-13 23:03:56,076- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:03:56,076- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@47a5b70d
+2017-04-13 23:09:01,266- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@2320fa6f
+2017-04-13 23:09:01,295- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:01,296- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@2a79d4b1
+2017-04-13 23:09:02,122- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@14dda234
+2017-04-13 23:09:02,126- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:02,126- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@3f390d63
+2017-04-13 23:09:03,002- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@5286c33a
+2017-04-13 23:09:03,008- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:03,008- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@6e6d5d29
+2017-04-13 23:09:03,799- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@f478a81
+2017-04-13 23:09:03,803- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:03,803- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@7fe7c640
+2017-04-13 23:09:04,435- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@73dce0e6
+2017-04-13 23:09:04,447- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:04,447- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@53dacd14
+2017-04-13 23:09:05,082- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@25bc0606
+2017-04-13 23:09:05,091- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:05,092- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@33aeca0b
+2017-04-13 23:09:05,731- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@4ba302e0
+2017-04-13 23:09:05,740- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-13 23:09:05,741- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@e98770d
+2017-04-13 23:16:21,675- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-13 23:16:21,679- utilities.ExecutableFunctionalities -INFO – Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:11:49,433- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:11:49,443- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:12:09,669- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:10,076- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:12:10,080- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:12:10,081- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:12:35,719- reporting.CTListener -INFO � Starting the test: Register
+2017-04-15 22:12:35,763- reporting.CTListener -INFO � Starting the test case: verifyRegister
+2017-04-15 22:12:35,794- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Register
+2017-04-15 22:12:35,794- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:12:36,002- utilities.ExcelUtil -ERROR � Excel Util | Error has been occured while reading data from xlsx file: testData
+2017-04-15 22:12:37,098- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:37,107- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:39,558- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:39,899- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:43,117- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:43,326- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:12:50,910- reporting.Screenshot -ERROR � Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'CTPLLT024', ip: '169.254.73.226', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\NISHAN~1.AGG\AppData\Local\Temp\rust_mozprofile.JhE4avwWAaQM, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=6.1, moz:processID=13616, browserName=firefox, platformName=windows_nt}]
+Session ID: 4cf911e0-a950-4493-9567-0c72556184e2
+2017-04-15 22:12:50,912- reporting.CTListener -INFO � test failure: verifyRegister
+2017-04-15 22:13:03,511- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:13:03,518- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:13:10,771- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:11,036- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:13:11,249- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:13:11,250- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:13:31,984- reporting.CTListener -INFO � Starting the test: Login
+2017-04-15 22:13:32,033- reporting.CTListener -INFO � Starting the test case: verifyLogin
+2017-04-15 22:13:32,148- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:32,153- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:34,230- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:37,472- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:39,907- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Login
+2017-04-15 22:13:39,907- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:13:40,211- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:43,953- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:13:55,991- reporting.CTListener -INFO � test failure: verifyLogin
+2017-04-15 22:15:47,524- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:15:47,530- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:15:54,441- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:15:54,616- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:15:54,660- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:15:54,661- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:17:11,384- reporting.CTListener -INFO � Starting the test: Login
+2017-04-15 22:17:11,479- reporting.CTListener -INFO � Starting the test case: verifyLogin
+2017-04-15 22:17:11,534- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:17:11,544- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:17:15,153- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:17:16,555- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:17:18,895- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Login
+2017-04-15 22:17:18,898- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:17:19,054- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:18:31,828- reporting.CTListener -INFO � test failure: verifyLogin
+2017-04-15 22:21:32,781- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:21:32,790- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:21:40,293- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:21:40,637- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:21:40,750- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:21:40,750- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:21:56,707- reporting.CTListener -INFO � Starting the test: Login
+2017-04-15 22:21:56,780- reporting.CTListener -INFO � Starting the test case: verifyLogin
+2017-04-15 22:21:57,109- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:21:57,150- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:21:59,750- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:22:00,059- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:22:03,428- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Login
+2017-04-15 22:22:03,428- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:22:03,652- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:22:06,329- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:22:46,463- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:23:00,312- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:24:27,880- reporting.CTListener -INFO � test successful: verifyLogin
+2017-04-15 22:26:50,744- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:26:50,750- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:27:01,684- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:01,910- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:27:02,096- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:27:02,097- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:27:32,928- reporting.CTListener -INFO � Starting the test: Register
+2017-04-15 22:27:32,999- reporting.CTListener -INFO � Starting the test case: verifyRegister
+2017-04-15 22:27:33,031- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Register
+2017-04-15 22:27:33,032- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:27:34,477- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:34,483- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:36,597- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:38,493- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:40,763- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:27:40,942- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:28:53,944- reporting.CTListener -INFO � test failure: verifyRegister
+2017-04-15 22:30:17,930- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:30:17,939- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:30:48,294- utilities.Browser -INFO � Instantiating: FIREFOX
+2017-04-15 22:30:48,299- utilities.ExecutableFunctionalities -INFO � Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 22:30:55,368- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:30:55,623- utilities.Browser -INFO � Browser Name: firefoxBrowser Version: 
+2017-04-15 22:30:55,627- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: URL
+2017-04-15 22:30:55,632- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:31:07,393- reporting.CTListener -INFO � Starting the test: Register
+2017-04-15 22:31:07,432- reporting.CTListener -INFO � Starting the test case: verifyRegister
+2017-04-15 22:31:07,461- utilities.ExcelUtil -INFO � Getting Data for the excel file: testData, and for sheet: Register
+2017-04-15 22:31:07,461- utilities.ExcelUtil -INFO � File is available to read: true
+2017-04-15 22:31:08,410- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:08,417- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:08,948- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:09,653- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:17,652- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:17,836- utilities.Browser -INFO � Browser already opened
+2017-04-15 22:31:32,702- pages.hellofresh.Register -INFO � User name is: Prakash J.
+2017-04-15 22:31:32,703- reporting.CTListener -INFO � test successful: verifyRegister
+2017-04-15 23:51:22,255- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:51:22,260- utilities.ExecutableFunctionalities -INFO – Returning path for resource: browser/geckodriver.exe invoked from class: utilities.Browser
+2017-04-15 23:57:20,863- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:57:20,865- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:57:20,866- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:57:20,928- reporting.CTListener -INFO – Starting the test: Login
+2017-04-15 23:57:20,946- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-15 23:57:20,947- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:57:20,948- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:57:20,948- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:57:20,964- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:57:20,964- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:57:20,965- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:57:20,976- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: null
+2017-04-15 23:57:20,977- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-15 23:57:20,979- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:57:20,979- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:57:20,979- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:58:00,409- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:58:00,412- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:58:00,412- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:58:00,476- reporting.CTListener -INFO – Starting the test: Login
+2017-04-15 23:58:00,496- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-15 23:58:00,497- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:58:00,497- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:58:00,498- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:58:00,513- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:58:00,514- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:58:00,514- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-15 23:58:00,523- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: null
+2017-04-15 23:58:00,524- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-15 23:58:00,525- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-15 23:58:00,525- utilities.ExecutableFunctionalities -INFO – Returning path for resource: /Users/sajupt/Desktop/geckodriver invoked from class: utilities.Browser
+2017-04-15 23:58:00,525- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-16 00:04:23,490- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:04:26,264- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:04:26,647- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:04:26,648- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:04:26,648- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:04:26,649- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:04:29,654- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:04:32,657- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:04:35,662- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:04:38,665- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:04:41,666- utilities.ExcelUtil -ERROR – Excel Util | Error has been occured while reading data from xlsx file: testData
+2017-04-16 00:04:41,667- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-16 00:04:41,731- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:04:41,746- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:04:41,758- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:04:41,760- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:05:08,261- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:05:10,651- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:05:11,029- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:05:11,030- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:05:11,030- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:05:11,031- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:05:14,035- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:05:17,040- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:05:20,041- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:05:23,044- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:05:26,050- utilities.ExcelUtil -ERROR – Excel Util | Error has been occured while reading data from xlsx file: testData
+2017-04-16 00:05:26,051- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-16 00:05:26,120- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:05:26,136- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:05:26,146- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:05:26,147- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:08:20,682- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:08:23,385- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:08:23,778- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:08:23,779- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:08:23,780- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:08:23,780- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:08:26,787- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:08:29,793- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:08:32,801- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:36,185- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:09:38,697- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:09:39,055- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:09:39,056- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:09:39,056- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:09:39,057- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:42,060- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:45,064- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:48,067- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:51,072- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:54,076- utilities.ExcelUtil -ERROR – Excel Util | Error has been occured while reading data from xlsx file: testData
+2017-04-16 00:09:54,078- utilities.Browser -ERROR – Unable to instantiate the browser, got exception: null, Please check.
+2017-04-16 00:09:54,148- reporting.CTListener -INFO – Starting the test: Register
+2017-04-16 00:09:54,165- reporting.CTListener -INFO – Starting the test case: verifyRegister
+2017-04-16 00:09:54,175- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Register
+2017-04-16 00:09:54,175- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:09:54,176- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:09:57,180- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:10:00,183- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:10:03,188- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:11:39,100- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:11:41,591- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:11:42,020- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:11:42,021- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:11:42,021- utilities.ExcelUtil -INFO – File is available to read: false
+2017-04-16 00:11:42,021- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:11:45,024- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:11:48,026- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:11:51,031- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:11:54,035- utilities.ExcelUtil -INFO – File is available to read: false, file exists: false, so waiting for 250ms 5 times.
+2017-04-16 00:12:09,616- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.Mp2uoGoXDlvP, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1072, browserName=firefox, platformName=darwin}]
+Session ID: 44bc822b-ce22-704d-be48-396aa841e29c
+2017-04-16 00:12:09,617- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-16 00:15:23,732- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:15:26,455- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:26,928- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:15:26,929- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:15:26,930- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:15:39,761- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:15:39,789- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:15:39,800- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:39,802- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:39,966- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:40,083- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:41,348- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 00:15:41,348- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:15:41,401- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:15:43,674- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-16 00:16:48,396- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:16:51,086- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:16:51,512- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:16:51,513- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:16:51,513- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:20:06,518- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:20:09,217- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:09,764- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:20:09,765- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:20:09,766- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:20:19,485- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:20:19,508- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:20:19,519- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:19,522- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:19,699- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:19,848- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:21,077- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 00:20:21,077- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:20:21,134- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:23,014- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:23,202- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:23,879- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:28,135- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:28,350- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:20:35,952- reporting.CTListener -INFO – test successful: verifyLogin
+2017-04-16 00:24:36,424- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:24:39,130- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:39,526- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:24:39,528- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:24:39,528- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:24:51,368- reporting.CTListener -INFO – Starting the test: Register
+2017-04-16 00:24:51,388- reporting.CTListener -INFO – Starting the test case: verifyRegister
+2017-04-16 00:24:51,397- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Register
+2017-04-16 00:24:51,397- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:24:51,659- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:51,661- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:52,994- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:53,060- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:53,766- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:24:53,883- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:25:41,375- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.KiljXrgXVqZA, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1335, browserName=firefox, platformName=darwin}]
+Session ID: e363759a-35a9-3244-a0f9-c8433fe3bb7a
+2017-04-16 00:25:41,378- reporting.CTListener -INFO – test failure: verifyRegister
+2017-04-16 00:27:10,242- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:27:12,940- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:13,352- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:27:13,353- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:27:13,354- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:27:23,256- reporting.CTListener -INFO – Starting the test: Register
+2017-04-16 00:27:23,287- reporting.CTListener -INFO – Starting the test case: verifyRegister
+2017-04-16 00:27:23,299- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Register
+2017-04-16 00:27:23,299- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:27:23,782- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:23,784- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:24,453- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:24,674- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:26,165- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:27:26,496- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:41,686- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:31:44,400- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:44,786- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:31:44,787- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:31:44,787- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:31:53,139- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:31:53,166- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:31:53,188- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:53,198- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:53,459- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:53,776- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:55,329- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 00:31:55,329- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:31:55,405- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:56,683- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:57,879- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:31:58,515- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:32:02,279- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:32:02,425- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:33:08,045- reporting.CTListener -INFO – test successful: verifyLogin
+2017-04-16 00:38:12,403- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.HhaK9RsOWxU9, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1367, browserName=firefox, platformName=darwin}]
+Session ID: f497691a-975a-2a44-857f-3f8621b794d5
+2017-04-16 00:38:12,405- reporting.CTListener -INFO – test failure: verifyRegister
+2017-04-16 00:38:17,938- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:38:20,539- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:20,914- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:38:20,915- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:38:20,916- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:38:33,805- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:38:33,824- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:38:33,834- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:33,836- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:34,009- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:34,175- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:35,673- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 00:38:35,673- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:38:35,720- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:36,982- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:37,191- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:37,850- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:41,580- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:38:41,684- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:28,225- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:39:30,825- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:31,193- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:39:31,194- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:39:31,195- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:39:41,122- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:39:41,143- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:39:41,156- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:41,158- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:41,308- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:41,478- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:42,684- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 00:39:42,684- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:39:42,741- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:44,297- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:44,501- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:45,200- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:48,940- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:49,093- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:39:55,266- reporting.CTListener -INFO – test successful: verifyLogin
+2017-04-16 00:40:52,620- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:40:55,207- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:40:55,573- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:40:55,574- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:40:55,574- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:41:05,414- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:41:05,426- reporting.CTListener -INFO – Starting the test case: validateCountry
+2017-04-16 00:41:07,225- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@777c350f
+2017-04-16 00:41:07,255- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:07,255- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@5c92166b
+2017-04-16 00:41:07,909- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@6f8e0cee
+2017-04-16 00:41:07,914- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:07,915- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@614aeccc
+2017-04-16 00:41:08,617- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@3a91d146
+2017-04-16 00:41:08,624- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:08,625- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.response.CountryResponse@4784013e
+2017-04-16 00:41:08,627- reporting.CTListener -INFO – test successful: validateCountry
+2017-04-16 00:41:08,628- reporting.CTListener -INFO – Starting the test case: validateIsoCode
+2017-04-16 00:41:09,254- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@131fcb6f
+2017-04-16 00:41:09,269- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:09,269- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@4d0b0fd4
+2017-04-16 00:41:09,919- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@30331109
+2017-04-16 00:41:09,929- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:09,929- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@2571066a
+2017-04-16 00:41:10,571- api.Request -INFO – Response : com.jayway.restassured.internal.RestAssuredResponseImpl@ecfbe91
+2017-04-16 00:41:10,586- api.Request -INFO – Request recieved and api has been hit, now returning the response
+2017-04-16 00:41:10,586- api.country.request.RequestPopulator -INFO – Child Loan Response: api.country.specific.response.SpecificCountry@20ed3303
+2017-04-16 00:41:10,587- reporting.CTListener -INFO – test successful: validateIsoCode
+2017-04-16 00:44:45,025- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:44:47,418- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:44:47,781- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:44:47,782- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:44:47,782- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:45:05,095- reporting.CTListener -INFO – Starting the test: Register
+2017-04-16 00:45:05,110- reporting.CTListener -INFO – Starting the test case: verifyRegister
+2017-04-16 00:45:05,120- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Register
+2017-04-16 00:45:05,120- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:45:05,337- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:05,339- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:06,659- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:06,718- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:07,339- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:07,440- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:22,134- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.fVec1xKnErjV, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1485, browserName=firefox, platformName=darwin}]
+Session ID: 763f226a-fb82-2d44-a951-a383726e9c60
+2017-04-16 00:45:22,135- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-16 00:45:27,256- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.pWECDYhHTlsM, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1560, browserName=firefox, platformName=darwin}]
+Session ID: d850a140-df42-f84f-8d2b-84a114dad890
+2017-04-16 00:45:27,258- reporting.CTListener -INFO – test failure: verifyRegister
+2017-04-16 00:45:31,868- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:45:34,493- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:45:34,934- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:45:34,935- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:45:34,935- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 00:49:02,571- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 00:49:02,593- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 00:49:02,604- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:49:02,608- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:49:20,751- reporting.Screenshot -ERROR – Exception occurred while taking screenshot, please refer the error message: Tried to run command without establishing a connection
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Sajus-MacBook-Pro-2.local', ip: '192.168.2.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=/var/folders/mv/jxp11x8x5rz0py09t237k16m0000gn/T/rust_mozprofile.BueatzaFhBch, rotatable=false, timeouts={implicit=0, page load=300000, script=30000}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=52.0.2, platformVersion=16.5.0, moz:processID=1578, browserName=firefox, platformName=darwin}]
+Session ID: 5222efb8-2150-0e4f-9d49-a1777da5cabe
+2017-04-16 00:49:20,752- reporting.CTListener -INFO – test failure: verifyLogin
+2017-04-16 00:49:28,345- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 00:49:30,964- utilities.Browser -INFO – Browser already opened
+2017-04-16 00:49:31,331- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 00:49:31,332- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 00:49:31,332- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 04:12:33,713- utilities.Browser -INFO – Instantiating: FIREFOX
+2017-04-16 04:12:36,615- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:12:36,953- utilities.Browser -INFO – Browser Name: firefoxBrowser Version: 
+2017-04-16 04:12:36,956- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: URL
+2017-04-16 04:12:36,957- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 04:13:59,654- reporting.CTListener -INFO – Starting the test: Login
+2017-04-16 04:13:59,678- reporting.CTListener -INFO – Starting the test case: verifyLogin
+2017-04-16 04:13:59,691- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:13:59,694- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:13:59,827- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:13:59,910- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:02,808- utilities.ExcelUtil -INFO – Getting Data for the excel file: testData, and for sheet: Login
+2017-04-16 04:14:02,809- utilities.ExcelUtil -INFO – File is available to read: true
+2017-04-16 04:14:02,858- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:06,203- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:07,451- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:10,692- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:20,210- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:20,292- utilities.Browser -INFO – Browser already opened
+2017-04-16 04:14:43,874- reporting.CTListener -INFO – test successful: verifyLogin
